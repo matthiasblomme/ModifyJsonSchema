@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ModifyJsonSchema:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ModifyJsonSchema_jar</output-path>
+    <root id="archive" name="ModifyJsonSchema.jar">
+      <element id="module-output" name="ModifyJsonSchema" />
+    </root>
+  </artifact>
+</component>
