@@ -2,7 +2,6 @@ import java.io.File;
 import java.io.FileInputStream;
 import java.io.IOException;
 import java.nio.file.Files;
-import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.List;
@@ -59,6 +58,7 @@ public class UpdateJsonSchema {
         System.out.println("Updating " + jsonInputSchemaFile + " for " + jsonSchemaObject);
         List<String> replacedContent = handleFile(jsonInputSchemaFile);
         Files.write(Paths.get(jsonOutputSchemaFile), replacedContent);
+        System.out.println("\nGenerated " + jsonOutputSchemaFile);
     }
 
     /**
@@ -85,10 +85,10 @@ public class UpdateJsonSchema {
                 p = Pattern.compile(jsonixSchemaPattern);
                 m = p.matcher(line);
                 if (m.matches()) {
-                    System.out.println("Found entry for jsonix def: " + m.group(2));
                     String spaces = m.group(1);
                     String type = m.group(2);
-                    String newLine = "";
+                    System.out.println("Found entry for jsonix def: " + type);
+                    String newLine;
                     switch (type) {
                         case "string" -> {
                             newLine = spaces + "\"type\": \"string\"";
@@ -105,6 +105,10 @@ public class UpdateJsonSchema {
                         case "dateTime" -> {
                             newLine = spaces + "\"type\": \"string\"," + "\n" + spaces + "\"format\": \"date-time\"";
                             System.out.println("   Replacing with json string and format date-time");
+                        }
+                        default -> {
+                            newLine = spaces + "\"type\": \"YOU SHALL NOT PASS!!!\"";
+                            System.out.println("   >>>>> Did not find a match for type");
                         }
                     }
                     replaced.add(newLine);
