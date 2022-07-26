@@ -91,6 +91,7 @@ public class UpdateJsonSchema {
                     String newLine;
                     switch (type) {
                         case "string" :
+                        case "ID" : //very typical one that was not translated by jsonix due to it being a nested type
                             newLine = spaces + "\"type\": \"string\"";
                             System.out.println("   Replacing with json string");
                             break;
@@ -98,6 +99,7 @@ public class UpdateJsonSchema {
                             newLine = spaces + "\"type\": \"number\"";
                             System.out.println("   Replacing with json number");
                             break;
+                        case "int":
                         case "integer" :
                             newLine = spaces + "\"type\": \"integer\"";
                             System.out.println("   Replacing with json integer");
@@ -105,6 +107,10 @@ public class UpdateJsonSchema {
                         case "dateTime" :
                             newLine = spaces + "\"type\": \"string\"," + "\n" + spaces + "\"format\": \"date-time\"";
                             System.out.println("   Replacing with json string and format date-time");
+                            break;
+                        case "boolean" :
+                            newLine = spaces + "\"type\": \"boolean\"";
+                            System.out.println("   Replacing with json boolean");
                             break;
                         default :
                             newLine = spaces + "\"type\": \"YOU SHALL NOT PASS!!!\"";
