@@ -1,0 +1,1074 @@
+<BasistabelBestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>H</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>BERENDR</VerloningCentrumCode>
+        <BestelLocatieBeginDatum>20031021</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>BERENDR</BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>H</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>BORDGT </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>20131226</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>BORDGT </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>H</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>BOREA  </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>19910808</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>BOREA  </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>L</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>BOR1742</VerloningCentrumCode>
+        <BestelLocatieBeginDatum>20140210</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>BOR1742</BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>L</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>CFS420 </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>20090120</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>BOR418 </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>H</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>BOR420 </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>20131226</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>BOR420 </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>L</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>BOR730 </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>20140210</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>BOR730 </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>L</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>BOR869 </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>20140210</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>BOR869 </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>L</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>BOR913 </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>20090120</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>BOR913 </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>H</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>CFS420 </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>20050128</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>CFS420 </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>L</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>GAR714 </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>20060504</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>CHA714 </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>L</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>KRA730 </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>19970529</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>CHA730 </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>L</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>KRA869 </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>19970529</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>CHA869 </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>H</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>CHURCH </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>20131226</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>CHURCH </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>H</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>COIL   </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>20080101</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>COIL   </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>H</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>CSV    </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>19910808</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>CSV    </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>L</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>KRA730 </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>19970529</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>CSV730 </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>L</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>KRA869 </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>19970529</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>CSV869 </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>H</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>DELWA  </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>20050128</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>DELWA  </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>H</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>DEURGA </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>20080101</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>DEURGA </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>H</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>DGTDSP </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>20170111</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>DGTDSP </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>H</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>DSPATS </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>20170919</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>DSPATS </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>H</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>DSP420 </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>19980908</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>DSP420 </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>H</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>GARDGT </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>20170110</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>GARDGT </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>H</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>GAR420 </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>19921217</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>GAR420 </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>H</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>GAR714 </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>20080101</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>GAR714 </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>L</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>GAR913 </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>20020909</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>GAR913 </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>L</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>SECUR  </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>20140216</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>GENUA  </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>H</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>HRM    </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>20160930</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>HRM    </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>H</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>INDIE  </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>20040110</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>INDIE  </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>H</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>KRA730 </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>19910808</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>KRA730 </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>H</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>KRA869 </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>19921120</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>KRA869 </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>L</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>MSCHOME</VerloningCentrumCode>
+        <BestelLocatieBeginDatum>20090820</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>KUI730 </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>H</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>LEODOK </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>20080101</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>LEODOK </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>L</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>MSCHOME</VerloningCentrumCode>
+        <BestelLocatieBeginDatum>20090820</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>MAR730 </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>L</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>DEURGA </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>20181018</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>M1718_Y</BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>L</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>DEURGA </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>20181018</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>M1742_X</BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>H</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>RM420  </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>19990322</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>RM420  </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>H</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>SCHELD </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>20050128</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>SCHELD </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>H</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>SCTN   </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>20050128</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>SCTN   </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>H</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>SECUR  </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>19981124</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>SECUR  </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>L</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>SEC730 </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>20030403</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>SEC730 </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>H</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>STEEL  </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>20080101</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>STEEL  </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>L</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>MSCHOME</VerloningCentrumCode>
+        <BestelLocatieBeginDatum>20090820</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>STW730 </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>H</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>VIJFDE </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>20081101</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>VIJFDE </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>H</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>ZESDE  </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>20080101</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>ZESDE  </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>L</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>DGTOOST</VerloningCentrumCode>
+        <BestelLocatieBeginDatum>20170101</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>1718   </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>L</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>DGTOOST</VerloningCentrumCode>
+        <BestelLocatieBeginDatum>20170101</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>1720   </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>L</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>DEURGA </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>20051021</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>1722   </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>L</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>DEURGA </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>20051021</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>1724   </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>L</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>DEURGA </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>20051021</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>1726   </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>L</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>DEURGA </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>20051021</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>1728   </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>L</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>DEURGA </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>20051021</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>1730   </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>L</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>DEURGA </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>20051021</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>1732   </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>L</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>DEURGA </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>20051021</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>1734   </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>L</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>DEURGA </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>20051021</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>1736   </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>L</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>DGTDSP </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>20051021</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>1738   </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>L</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>DEURGA </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>20051021</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>1740   </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>L</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>DEURGA </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>20050922</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>1742   </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>L</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>LEODOK </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>19910807</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>210    </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>L</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>LEODOK </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>19910807</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>212    </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>L</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>LEODOK </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>19910807</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>214    </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>L</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>LEODOK </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>19910807</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>216    </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>L</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>VIJFDE </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>20030403</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>305    </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>L</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>VIJFDE </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>20030403</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>309    </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>L</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>VIJFDE </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>20030403</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>315    </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>L</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>ZESDE  </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>19910808</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>332    </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>L</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>ZESDE  </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>19910808</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>334    </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>L</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>ZESDE  </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>19910808</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>336    </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>L</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>ZESDE  </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>19910808</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>338    </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>L</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>ZESDE  </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>19910808</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>340    </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>L</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>ZESDE  </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>19910808</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>342    </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>L</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>SECUR  </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>19910808</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>344    </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>L</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>RO408  </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>19910808</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>368    </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>L</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>RO408  </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>19910808</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>372    </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>L</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>CFS420 </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>19910808</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>402    </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>L</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>CFS420 </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>19910808</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>404    </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>L</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>CFS420 </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>19910808</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>406    </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>L</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>CFS420 </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>19910808</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>408    </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>L</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>CFS420 </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>19910808</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>412    </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>L</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>CFS420 </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>20020402</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>414    </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>L</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>CFS420 </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>20020402</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>416    </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>L</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>CFS420 </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>20020402</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>418    </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>L</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>CFS420 </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>19910808</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>420    </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>L</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>CFS420 </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>19910808</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>422    </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>L</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>CFS420 </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>19910808</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>424    </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>L</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>CFS420 </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>19910808</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>426    </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>L</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>CFS420 </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>19910808</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>428    </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>L</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>STEEL  </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>19910808</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>486    </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>L</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>STEEL  </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>19910808</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>488    </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>L</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>STEEL  </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>19910808</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>490    </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>L</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>STEEL  </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>19910808</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>492    </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>L</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>STEEL  </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>19910808</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>494    </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>L</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>STEEL  </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>20010206</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>494L   </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>L</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>STEEL  </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>19911113</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>494N   </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>L</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>STEEL  </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>20010206</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>494S   </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>L</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>STEEL  </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>20010206</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>494W   </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>L</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>STEEL  </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>19910808</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>496    </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>L</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>STEEL  </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>19910808</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>498    </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>L</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>STEEL  </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>19910808</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>500    </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>L</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>SECUR  </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>19910902</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>502    </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>L</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>STEEL  </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>19910902</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>504    </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>L</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>STEEL  </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>19911113</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>504N   </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>L</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>SCHELD </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>19910808</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>667    </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>L</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>DELWA  </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>20020101</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>702    </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>L</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>SCTN   </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>20020101</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>703    </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>L</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>DELWA  </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>20020101</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>704    </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>L</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>DELWA  </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>20020101</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>706    </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>L</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>DELWA  </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>20020101</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>708    </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>L</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>DELWA  </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>20020101</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>710    </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>L</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>DELWA  </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>20020101</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>712    </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>L</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>DELWA  </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>20020129</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>714    </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>L</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>DELWA  </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>19910808</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>716    </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>L</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>DELWA  </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>19910808</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>718    </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>L</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>DELWA  </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>19910808</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>720    </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>L</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>DELWA  </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>19910808</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>722    </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>L</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>DELWA  </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>19910808</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>724    </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>L</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>DELWA  </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>19910808</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>726    </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>L</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>DELWA  </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>19910808</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>728    </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>L</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>DELWA  </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>19910808</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>730    </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>L</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>SCHELD </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>19910808</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>853    </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>L</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>SCHELD </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>19910808</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>855    </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>L</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>SCHELD </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>19910808</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>857    </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>L</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>SCHELD </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>19910808</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>859    </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>L</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>SCHELD </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>19910808</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>861    </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>L</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>SCHELD </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>19910808</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>863    </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>L</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>SCHELD </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>19910808</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>865    </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>L</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>SCHELD </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>19910808</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>867    </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>L</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>SCHELD </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>19910808</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>869    </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>L</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>SCTN   </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>20020101</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>905    </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>L</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>SCTN   </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>20020101</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>907    </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>L</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>SCTN   </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>20020101</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>909    </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>L</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>SCTN   </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>20020101</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>911    </BestelLocatieCode>
+    </BestelLokatie>
+    <BestelLokatie>
+        <BestelLocatieSoort>L</BestelLocatieSoort>
+        <Havencode>ANTWERP</Havencode>
+        <VerloningCentrumCode>SCTN   </VerloningCentrumCode>
+        <BestelLocatieBeginDatum>20020101</BestelLocatieBeginDatum>
+        <BestelLocatieEindDatum>99999999</BestelLocatieEindDatum>
+        <BestelLocatieCode>913    </BestelLocatieCode>
+    </BestelLokatie>
+</BasistabelBestelLokatie>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <xsd:element name="BestelLokatie">
+    <xsd:complexType>
+      <xsd:sequence>
+        <xsd:element ref="BestelLocatieSoort"/>
+        <xsd:element ref="Havencode"/>
+        <xsd:element ref="VerloningCentrumCode"/>
+        <xsd:element ref="BestelLocatieBeginDatum"/>
+        <xsd:element ref="BestelLocatieEindDatum"/>
+        <xsd:element ref="BestelLocatieCode"/>
+      </xsd:sequence>
+    </xsd:complexType>
+  </xsd:element>
+  <xsd:element name="BestelLocatieCode" type="xsd:string"/>
+  <xsd:element name="VerloningCentrumCode" type="xsd:string"/>
+  <xsd:element name="BestelLocatieBeginDatum" type="xsd:string"/>
+  <xsd:element name="Havencode" type="xsd:string"/>
+  <xsd:element name="BasistabelBestelLokatie">
+    <xsd:complexType>
+      <xsd:sequence>
+        <xsd:element maxOccurs="unbounded" ref="BestelLokatie"/>
+      </xsd:sequence>
+    </xsd:complexType>
+  </xsd:element>
+  <xsd:element name="BestelLocatieSoort" type="xsd:string"/>
+  <xsd:element name="BestelLocatieEindDatum" type="xsd:string"/>
+</xsd:schema>

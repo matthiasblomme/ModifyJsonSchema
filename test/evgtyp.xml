@@ -1,0 +1,807 @@
+<BasistabelExtraVergoeding>
+    <ExtraVergoeding>
+        <ExtraVergoedingType>BIJPASS</ExtraVergoedingType>
+        <ExtraVergoedingTypeOmschrijving>BIJPASSING OPL SC                  </ExtraVergoedingTypeOmschrijving>
+        <EvTypeRedenInvullen>J</EvTypeRedenInvullen>
+        <EvTypeRedenAfdrukkenPos>J</EvTypeRedenAfdrukkenPos>
+        <EvTypeOmstandighedenInvullen>J</EvTypeOmstandighedenInvullen>
+        <WnFunctieSoort1>F</WnFunctieSoort1>
+        <WnFunctieSoort2>S</WnFunctieSoort2>
+        <WnFunctieSoort3> </WnFunctieSoort3>
+        <WnFunctieSoort4> </WnFunctieSoort4>
+        <WnFunctieSoort5> </WnFunctieSoort5>
+        <WnFunctieSoort6> </WnFunctieSoort6>
+        <DivisieCode>       </DivisieCode>
+        <Uitbetalingswijze>A</Uitbetalingswijze>
+        <EvTypeBedragManueelInvullen>J</EvTypeBedragManueelInvullen>
+        <ExtraVergoedingTypeBeginDatum>20180129</ExtraVergoedingTypeBeginDatum>
+        <ExtraVergoedingTypeEindDatum>99999999</ExtraVergoedingTypeEindDatum>
+        <AttestnummerVerplicht>N</AttestnummerVerplicht>
+        <GoedkeuringVerplicht>N</GoedkeuringVerplicht>
+        <VasteKostenplaats>N</VasteKostenplaats>
+        <IdentFirma></IdentFirma>
+        <InterneKostenplaats></InterneKostenplaats>
+    </ExtraVergoeding>
+    <ExtraVergoeding>
+        <ExtraVergoedingType>BLOK   </ExtraVergoedingType>
+        <ExtraVergoedingTypeOmschrijving>BLOKKEN                            </ExtraVergoedingTypeOmschrijving>
+        <EvTypeRedenInvullen>N</EvTypeRedenInvullen>
+        <EvTypeRedenAfdrukkenPos>N</EvTypeRedenAfdrukkenPos>
+        <EvTypeOmstandighedenInvullen>N</EvTypeOmstandighedenInvullen>
+        <WnFunctieSoort1>F</WnFunctieSoort1>
+        <WnFunctieSoort2>S</WnFunctieSoort2>
+        <WnFunctieSoort3> </WnFunctieSoort3>
+        <WnFunctieSoort4> </WnFunctieSoort4>
+        <WnFunctieSoort5> </WnFunctieSoort5>
+        <WnFunctieSoort6> </WnFunctieSoort6>
+        <DivisieCode>       </DivisieCode>
+        <Uitbetalingswijze>A</Uitbetalingswijze>
+        <EvTypeBedragManueelInvullen>N</EvTypeBedragManueelInvullen>
+        <ExtraVergoedingTypeBeginDatum>20070505</ExtraVergoedingTypeBeginDatum>
+        <ExtraVergoedingTypeEindDatum>99999999</ExtraVergoedingTypeEindDatum>
+        <AttestnummerVerplicht>N</AttestnummerVerplicht>
+        <GoedkeuringVerplicht>N</GoedkeuringVerplicht>
+        <VasteKostenplaats>N</VasteKostenplaats>
+        <IdentFirma></IdentFirma>
+        <InterneKostenplaats></InterneKostenplaats>
+    </ExtraVergoeding>
+    <ExtraVergoeding>
+        <ExtraVergoedingType>BRIGAD </ExtraVergoedingType>
+        <ExtraVergoedingTypeOmschrijving>VERVANGING BRIGADIER               </ExtraVergoedingTypeOmschrijving>
+        <EvTypeRedenInvullen>N</EvTypeRedenInvullen>
+        <EvTypeRedenAfdrukkenPos>N</EvTypeRedenAfdrukkenPos>
+        <EvTypeOmstandighedenInvullen>N</EvTypeOmstandighedenInvullen>
+        <WnFunctieSoort1>F</WnFunctieSoort1>
+        <WnFunctieSoort2>S</WnFunctieSoort2>
+        <WnFunctieSoort3> </WnFunctieSoort3>
+        <WnFunctieSoort4> </WnFunctieSoort4>
+        <WnFunctieSoort5> </WnFunctieSoort5>
+        <WnFunctieSoort6> </WnFunctieSoort6>
+        <DivisieCode>       </DivisieCode>
+        <Uitbetalingswijze>A</Uitbetalingswijze>
+        <EvTypeBedragManueelInvullen>N</EvTypeBedragManueelInvullen>
+        <ExtraVergoedingTypeBeginDatum>19990101</ExtraVergoedingTypeBeginDatum>
+        <ExtraVergoedingTypeEindDatum>99999999</ExtraVergoedingTypeEindDatum>
+        <AttestnummerVerplicht>N</AttestnummerVerplicht>
+        <GoedkeuringVerplicht>N</GoedkeuringVerplicht>
+        <VasteKostenplaats>N</VasteKostenplaats>
+        <IdentFirma></IdentFirma>
+        <InterneKostenplaats></InterneKostenplaats>
+    </ExtraVergoeding>
+    <ExtraVergoeding>
+        <ExtraVergoedingType>EXTR   </ExtraVergoedingType>
+        <ExtraVergoedingTypeOmschrijving>EXTRA WERK                         </ExtraVergoedingTypeOmschrijving>
+        <EvTypeRedenInvullen>J</EvTypeRedenInvullen>
+        <EvTypeRedenAfdrukkenPos>J</EvTypeRedenAfdrukkenPos>
+        <EvTypeOmstandighedenInvullen>J</EvTypeOmstandighedenInvullen>
+        <WnFunctieSoort1>F</WnFunctieSoort1>
+        <WnFunctieSoort2>S</WnFunctieSoort2>
+        <WnFunctieSoort3> </WnFunctieSoort3>
+        <WnFunctieSoort4> </WnFunctieSoort4>
+        <WnFunctieSoort5> </WnFunctieSoort5>
+        <WnFunctieSoort6> </WnFunctieSoort6>
+        <DivisieCode>       </DivisieCode>
+        <Uitbetalingswijze>A</Uitbetalingswijze>
+        <EvTypeBedragManueelInvullen>N</EvTypeBedragManueelInvullen>
+        <ExtraVergoedingTypeBeginDatum>19910709</ExtraVergoedingTypeBeginDatum>
+        <ExtraVergoedingTypeEindDatum>99999999</ExtraVergoedingTypeEindDatum>
+        <AttestnummerVerplicht>N</AttestnummerVerplicht>
+        <GoedkeuringVerplicht>N</GoedkeuringVerplicht>
+        <VasteKostenplaats>N</VasteKostenplaats>
+        <IdentFirma></IdentFirma>
+        <InterneKostenplaats></InterneKostenplaats>
+    </ExtraVergoeding>
+    <ExtraVergoeding>
+        <ExtraVergoedingType>KKO    </ExtraVergoedingType>
+        <ExtraVergoedingTypeOmschrijving>KOFFIE CACAO LOSSING               </ExtraVergoedingTypeOmschrijving>
+        <EvTypeRedenInvullen>N</EvTypeRedenInvullen>
+        <EvTypeRedenAfdrukkenPos>N</EvTypeRedenAfdrukkenPos>
+        <EvTypeOmstandighedenInvullen>N</EvTypeOmstandighedenInvullen>
+        <WnFunctieSoort1>F</WnFunctieSoort1>
+        <WnFunctieSoort2>S</WnFunctieSoort2>
+        <WnFunctieSoort3> </WnFunctieSoort3>
+        <WnFunctieSoort4> </WnFunctieSoort4>
+        <WnFunctieSoort5> </WnFunctieSoort5>
+        <WnFunctieSoort6> </WnFunctieSoort6>
+        <DivisieCode>       </DivisieCode>
+        <Uitbetalingswijze>A</Uitbetalingswijze>
+        <EvTypeBedragManueelInvullen>N</EvTypeBedragManueelInvullen>
+        <ExtraVergoedingTypeBeginDatum>19910820</ExtraVergoedingTypeBeginDatum>
+        <ExtraVergoedingTypeEindDatum>99999999</ExtraVergoedingTypeEindDatum>
+        <AttestnummerVerplicht>N</AttestnummerVerplicht>
+        <GoedkeuringVerplicht>N</GoedkeuringVerplicht>
+        <VasteKostenplaats>N</VasteKostenplaats>
+        <IdentFirma></IdentFirma>
+        <InterneKostenplaats></InterneKostenplaats>
+    </ExtraVergoeding>
+    <ExtraVergoeding>
+        <ExtraVergoedingType>KLED   </ExtraVergoedingType>
+        <ExtraVergoedingTypeOmschrijving>KLEDIJVERGOEDING                   </ExtraVergoedingTypeOmschrijving>
+        <EvTypeRedenInvullen>J</EvTypeRedenInvullen>
+        <EvTypeRedenAfdrukkenPos>J</EvTypeRedenAfdrukkenPos>
+        <EvTypeOmstandighedenInvullen>J</EvTypeOmstandighedenInvullen>
+        <WnFunctieSoort1>F</WnFunctieSoort1>
+        <WnFunctieSoort2>S</WnFunctieSoort2>
+        <WnFunctieSoort3> </WnFunctieSoort3>
+        <WnFunctieSoort4> </WnFunctieSoort4>
+        <WnFunctieSoort5> </WnFunctieSoort5>
+        <WnFunctieSoort6> </WnFunctieSoort6>
+        <DivisieCode>       </DivisieCode>
+        <Uitbetalingswijze>A</Uitbetalingswijze>
+        <EvTypeBedragManueelInvullen>J</EvTypeBedragManueelInvullen>
+        <ExtraVergoedingTypeBeginDatum>19910731</ExtraVergoedingTypeBeginDatum>
+        <ExtraVergoedingTypeEindDatum>99999999</ExtraVergoedingTypeEindDatum>
+        <AttestnummerVerplicht>J</AttestnummerVerplicht>
+        <GoedkeuringVerplicht>N</GoedkeuringVerplicht>
+        <VasteKostenplaats>N</VasteKostenplaats>
+        <IdentFirma></IdentFirma>
+        <InterneKostenplaats></InterneKostenplaats>
+    </ExtraVergoeding>
+    <ExtraVergoeding>
+        <ExtraVergoedingType>KLKU   </ExtraVergoedingType>
+        <ExtraVergoedingTypeOmschrijving>KLEDIJ VERGOEDING KUIPERIJ         </ExtraVergoedingTypeOmschrijving>
+        <EvTypeRedenInvullen>N</EvTypeRedenInvullen>
+        <EvTypeRedenAfdrukkenPos>N</EvTypeRedenAfdrukkenPos>
+        <EvTypeOmstandighedenInvullen>J</EvTypeOmstandighedenInvullen>
+        <WnFunctieSoort1>F</WnFunctieSoort1>
+        <WnFunctieSoort2>S</WnFunctieSoort2>
+        <WnFunctieSoort3> </WnFunctieSoort3>
+        <WnFunctieSoort4> </WnFunctieSoort4>
+        <WnFunctieSoort5> </WnFunctieSoort5>
+        <WnFunctieSoort6> </WnFunctieSoort6>
+        <DivisieCode>       </DivisieCode>
+        <Uitbetalingswijze>A</Uitbetalingswijze>
+        <EvTypeBedragManueelInvullen>N</EvTypeBedragManueelInvullen>
+        <ExtraVergoedingTypeBeginDatum>20081001</ExtraVergoedingTypeBeginDatum>
+        <ExtraVergoedingTypeEindDatum>99999999</ExtraVergoedingTypeEindDatum>
+        <AttestnummerVerplicht>J</AttestnummerVerplicht>
+        <GoedkeuringVerplicht>N</GoedkeuringVerplicht>
+        <VasteKostenplaats>N</VasteKostenplaats>
+        <IdentFirma></IdentFirma>
+        <InterneKostenplaats></InterneKostenplaats>
+    </ExtraVergoeding>
+    <ExtraVergoeding>
+        <ExtraVergoedingType>KM     </ExtraVergoedingType>
+        <ExtraVergoedingTypeOmschrijving>KILOMETERVERGOEDING                </ExtraVergoedingTypeOmschrijving>
+        <EvTypeRedenInvullen>N</EvTypeRedenInvullen>
+        <EvTypeRedenAfdrukkenPos>N</EvTypeRedenAfdrukkenPos>
+        <EvTypeOmstandighedenInvullen>J</EvTypeOmstandighedenInvullen>
+        <WnFunctieSoort1>F</WnFunctieSoort1>
+        <WnFunctieSoort2>S</WnFunctieSoort2>
+        <WnFunctieSoort3> </WnFunctieSoort3>
+        <WnFunctieSoort4> </WnFunctieSoort4>
+        <WnFunctieSoort5> </WnFunctieSoort5>
+        <WnFunctieSoort6> </WnFunctieSoort6>
+        <DivisieCode>       </DivisieCode>
+        <Uitbetalingswijze>A</Uitbetalingswijze>
+        <EvTypeBedragManueelInvullen>J</EvTypeBedragManueelInvullen>
+        <ExtraVergoedingTypeBeginDatum>19990901</ExtraVergoedingTypeBeginDatum>
+        <ExtraVergoedingTypeEindDatum>99999999</ExtraVergoedingTypeEindDatum>
+        <AttestnummerVerplicht>N</AttestnummerVerplicht>
+        <GoedkeuringVerplicht>N</GoedkeuringVerplicht>
+        <VasteKostenplaats>N</VasteKostenplaats>
+        <IdentFirma></IdentFirma>
+        <InterneKostenplaats></InterneKostenplaats>
+    </ExtraVergoeding>
+    <ExtraVergoeding>
+        <ExtraVergoedingType>KORT   </ExtraVergoedingType>
+        <ExtraVergoedingTypeOmschrijving>VOLK TEKORT                        </ExtraVergoedingTypeOmschrijving>
+        <EvTypeRedenInvullen>J</EvTypeRedenInvullen>
+        <EvTypeRedenAfdrukkenPos>J</EvTypeRedenAfdrukkenPos>
+        <EvTypeOmstandighedenInvullen>J</EvTypeOmstandighedenInvullen>
+        <WnFunctieSoort1>F</WnFunctieSoort1>
+        <WnFunctieSoort2>S</WnFunctieSoort2>
+        <WnFunctieSoort3> </WnFunctieSoort3>
+        <WnFunctieSoort4> </WnFunctieSoort4>
+        <WnFunctieSoort5> </WnFunctieSoort5>
+        <WnFunctieSoort6> </WnFunctieSoort6>
+        <DivisieCode>       </DivisieCode>
+        <Uitbetalingswijze>A</Uitbetalingswijze>
+        <EvTypeBedragManueelInvullen>J</EvTypeBedragManueelInvullen>
+        <ExtraVergoedingTypeBeginDatum>19910709</ExtraVergoedingTypeBeginDatum>
+        <ExtraVergoedingTypeEindDatum>99999999</ExtraVergoedingTypeEindDatum>
+        <AttestnummerVerplicht>N</AttestnummerVerplicht>
+        <GoedkeuringVerplicht>N</GoedkeuringVerplicht>
+        <VasteKostenplaats>N</VasteKostenplaats>
+        <IdentFirma></IdentFirma>
+        <InterneKostenplaats></InterneKostenplaats>
+    </ExtraVergoeding>
+    <ExtraVergoeding>
+        <ExtraVergoedingType>KRTE   </ExtraVergoedingType>
+        <ExtraVergoedingTypeOmschrijving>KRAANMAN TELEFONEREN               </ExtraVergoedingTypeOmschrijving>
+        <EvTypeRedenInvullen>N</EvTypeRedenInvullen>
+        <EvTypeRedenAfdrukkenPos>N</EvTypeRedenAfdrukkenPos>
+        <EvTypeOmstandighedenInvullen>N</EvTypeOmstandighedenInvullen>
+        <WnFunctieSoort1>F</WnFunctieSoort1>
+        <WnFunctieSoort2>S</WnFunctieSoort2>
+        <WnFunctieSoort3> </WnFunctieSoort3>
+        <WnFunctieSoort4> </WnFunctieSoort4>
+        <WnFunctieSoort5> </WnFunctieSoort5>
+        <WnFunctieSoort6> </WnFunctieSoort6>
+        <DivisieCode>       </DivisieCode>
+        <Uitbetalingswijze>A</Uitbetalingswijze>
+        <EvTypeBedragManueelInvullen>N</EvTypeBedragManueelInvullen>
+        <ExtraVergoedingTypeBeginDatum>19980303</ExtraVergoedingTypeBeginDatum>
+        <ExtraVergoedingTypeEindDatum>99999999</ExtraVergoedingTypeEindDatum>
+        <AttestnummerVerplicht>N</AttestnummerVerplicht>
+        <GoedkeuringVerplicht>N</GoedkeuringVerplicht>
+        <VasteKostenplaats>N</VasteKostenplaats>
+        <IdentFirma></IdentFirma>
+        <InterneKostenplaats></InterneKostenplaats>
+    </ExtraVergoeding>
+    <ExtraVergoeding>
+        <ExtraVergoedingType>KTEL   </ExtraVergoedingType>
+        <ExtraVergoedingTypeOmschrijving>KRAANMAN BELLEN GEEN WERK          </ExtraVergoedingTypeOmschrijving>
+        <EvTypeRedenInvullen>N</EvTypeRedenInvullen>
+        <EvTypeRedenAfdrukkenPos>N</EvTypeRedenAfdrukkenPos>
+        <EvTypeOmstandighedenInvullen>N</EvTypeOmstandighedenInvullen>
+        <WnFunctieSoort1>F</WnFunctieSoort1>
+        <WnFunctieSoort2>S</WnFunctieSoort2>
+        <WnFunctieSoort3> </WnFunctieSoort3>
+        <WnFunctieSoort4> </WnFunctieSoort4>
+        <WnFunctieSoort5> </WnFunctieSoort5>
+        <WnFunctieSoort6> </WnFunctieSoort6>
+        <DivisieCode>       </DivisieCode>
+        <Uitbetalingswijze>A</Uitbetalingswijze>
+        <EvTypeBedragManueelInvullen>N</EvTypeBedragManueelInvullen>
+        <ExtraVergoedingTypeBeginDatum>19910709</ExtraVergoedingTypeBeginDatum>
+        <ExtraVergoedingTypeEindDatum>99999999</ExtraVergoedingTypeEindDatum>
+        <AttestnummerVerplicht>N</AttestnummerVerplicht>
+        <GoedkeuringVerplicht>N</GoedkeuringVerplicht>
+        <VasteKostenplaats>N</VasteKostenplaats>
+        <IdentFirma></IdentFirma>
+        <InterneKostenplaats></InterneKostenplaats>
+    </ExtraVergoeding>
+    <ExtraVergoeding>
+        <ExtraVergoedingType>KTELMSC</ExtraVergoedingType>
+        <ExtraVergoedingTypeOmschrijving>KRAANM BELLEN GN WERK WEEKEND MSC  </ExtraVergoedingTypeOmschrijving>
+        <EvTypeRedenInvullen>N</EvTypeRedenInvullen>
+        <EvTypeRedenAfdrukkenPos>N</EvTypeRedenAfdrukkenPos>
+        <EvTypeOmstandighedenInvullen>N</EvTypeOmstandighedenInvullen>
+        <WnFunctieSoort1>F</WnFunctieSoort1>
+        <WnFunctieSoort2>S</WnFunctieSoort2>
+        <WnFunctieSoort3> </WnFunctieSoort3>
+        <WnFunctieSoort4> </WnFunctieSoort4>
+        <WnFunctieSoort5> </WnFunctieSoort5>
+        <WnFunctieSoort6> </WnFunctieSoort6>
+        <DivisieCode>       </DivisieCode>
+        <Uitbetalingswijze>A</Uitbetalingswijze>
+        <EvTypeBedragManueelInvullen>N</EvTypeBedragManueelInvullen>
+        <ExtraVergoedingTypeBeginDatum>20120329</ExtraVergoedingTypeBeginDatum>
+        <ExtraVergoedingTypeEindDatum>99999999</ExtraVergoedingTypeEindDatum>
+        <AttestnummerVerplicht>N</AttestnummerVerplicht>
+        <GoedkeuringVerplicht>N</GoedkeuringVerplicht>
+        <VasteKostenplaats>N</VasteKostenplaats>
+        <IdentFirma></IdentFirma>
+        <InterneKostenplaats></InterneKostenplaats>
+    </ExtraVergoeding>
+    <ExtraVergoeding>
+        <ExtraVergoedingType>LOONCOR</ExtraVergoedingType>
+        <ExtraVergoedingTypeOmschrijving>LOONCORRECTIE                      </ExtraVergoedingTypeOmschrijving>
+        <EvTypeRedenInvullen>J</EvTypeRedenInvullen>
+        <EvTypeRedenAfdrukkenPos>J</EvTypeRedenAfdrukkenPos>
+        <EvTypeOmstandighedenInvullen>J</EvTypeOmstandighedenInvullen>
+        <WnFunctieSoort1>F</WnFunctieSoort1>
+        <WnFunctieSoort2>S</WnFunctieSoort2>
+        <WnFunctieSoort3> </WnFunctieSoort3>
+        <WnFunctieSoort4> </WnFunctieSoort4>
+        <WnFunctieSoort5> </WnFunctieSoort5>
+        <WnFunctieSoort6> </WnFunctieSoort6>
+        <DivisieCode>       </DivisieCode>
+        <Uitbetalingswijze>A</Uitbetalingswijze>
+        <EvTypeBedragManueelInvullen>J</EvTypeBedragManueelInvullen>
+        <ExtraVergoedingTypeBeginDatum>19910820</ExtraVergoedingTypeBeginDatum>
+        <ExtraVergoedingTypeEindDatum>99999999</ExtraVergoedingTypeEindDatum>
+        <AttestnummerVerplicht>N</AttestnummerVerplicht>
+        <GoedkeuringVerplicht>N</GoedkeuringVerplicht>
+        <VasteKostenplaats>N</VasteKostenplaats>
+        <IdentFirma></IdentFirma>
+        <InterneKostenplaats></InterneKostenplaats>
+    </ExtraVergoeding>
+    <ExtraVergoeding>
+        <ExtraVergoedingType>LOSM   </ExtraVergoedingType>
+        <ExtraVergoedingTypeOmschrijving>LOSMAKER AUTO SCHEPEN              </ExtraVergoedingTypeOmschrijving>
+        <EvTypeRedenInvullen>N</EvTypeRedenInvullen>
+        <EvTypeRedenAfdrukkenPos>N</EvTypeRedenAfdrukkenPos>
+        <EvTypeOmstandighedenInvullen>N</EvTypeOmstandighedenInvullen>
+        <WnFunctieSoort1>F</WnFunctieSoort1>
+        <WnFunctieSoort2>S</WnFunctieSoort2>
+        <WnFunctieSoort3> </WnFunctieSoort3>
+        <WnFunctieSoort4> </WnFunctieSoort4>
+        <WnFunctieSoort5> </WnFunctieSoort5>
+        <WnFunctieSoort6> </WnFunctieSoort6>
+        <DivisieCode>       </DivisieCode>
+        <Uitbetalingswijze>A</Uitbetalingswijze>
+        <EvTypeBedragManueelInvullen>N</EvTypeBedragManueelInvullen>
+        <ExtraVergoedingTypeBeginDatum>19910709</ExtraVergoedingTypeBeginDatum>
+        <ExtraVergoedingTypeEindDatum>99999999</ExtraVergoedingTypeEindDatum>
+        <AttestnummerVerplicht>N</AttestnummerVerplicht>
+        <GoedkeuringVerplicht>N</GoedkeuringVerplicht>
+        <VasteKostenplaats>N</VasteKostenplaats>
+        <IdentFirma></IdentFirma>
+        <InterneKostenplaats></InterneKostenplaats>
+    </ExtraVergoeding>
+    <ExtraVergoeding>
+        <ExtraVergoedingType>NAAF   </ExtraVergoedingType>
+        <ExtraVergoedingTypeOmschrijving>NACHT AF SUPPLEMENT                </ExtraVergoedingTypeOmschrijving>
+        <EvTypeRedenInvullen>N</EvTypeRedenInvullen>
+        <EvTypeRedenAfdrukkenPos>N</EvTypeRedenAfdrukkenPos>
+        <EvTypeOmstandighedenInvullen>N</EvTypeOmstandighedenInvullen>
+        <WnFunctieSoort1>F</WnFunctieSoort1>
+        <WnFunctieSoort2>S</WnFunctieSoort2>
+        <WnFunctieSoort3> </WnFunctieSoort3>
+        <WnFunctieSoort4> </WnFunctieSoort4>
+        <WnFunctieSoort5> </WnFunctieSoort5>
+        <WnFunctieSoort6> </WnFunctieSoort6>
+        <DivisieCode>       </DivisieCode>
+        <Uitbetalingswijze>A</Uitbetalingswijze>
+        <EvTypeBedragManueelInvullen>N</EvTypeBedragManueelInvullen>
+        <ExtraVergoedingTypeBeginDatum>19990306</ExtraVergoedingTypeBeginDatum>
+        <ExtraVergoedingTypeEindDatum>99999999</ExtraVergoedingTypeEindDatum>
+        <AttestnummerVerplicht>N</AttestnummerVerplicht>
+        <GoedkeuringVerplicht>N</GoedkeuringVerplicht>
+        <VasteKostenplaats>N</VasteKostenplaats>
+        <IdentFirma></IdentFirma>
+        <InterneKostenplaats></InterneKostenplaats>
+    </ExtraVergoeding>
+    <ExtraVergoeding>
+        <ExtraVergoedingType>OPLEID </ExtraVergoedingType>
+        <ExtraVergoedingTypeOmschrijving>OPLEIDINGSVERGOEDING               </ExtraVergoedingTypeOmschrijving>
+        <EvTypeRedenInvullen>N</EvTypeRedenInvullen>
+        <EvTypeRedenAfdrukkenPos>N</EvTypeRedenAfdrukkenPos>
+        <EvTypeOmstandighedenInvullen>N</EvTypeOmstandighedenInvullen>
+        <WnFunctieSoort1>F</WnFunctieSoort1>
+        <WnFunctieSoort2>S</WnFunctieSoort2>
+        <WnFunctieSoort3> </WnFunctieSoort3>
+        <WnFunctieSoort4> </WnFunctieSoort4>
+        <WnFunctieSoort5> </WnFunctieSoort5>
+        <WnFunctieSoort6> </WnFunctieSoort6>
+        <DivisieCode>       </DivisieCode>
+        <Uitbetalingswijze>A</Uitbetalingswijze>
+        <EvTypeBedragManueelInvullen>N</EvTypeBedragManueelInvullen>
+        <ExtraVergoedingTypeBeginDatum>20021030</ExtraVergoedingTypeBeginDatum>
+        <ExtraVergoedingTypeEindDatum>99999999</ExtraVergoedingTypeEindDatum>
+        <AttestnummerVerplicht>N</AttestnummerVerplicht>
+        <GoedkeuringVerplicht>N</GoedkeuringVerplicht>
+        <VasteKostenplaats>N</VasteKostenplaats>
+        <IdentFirma></IdentFirma>
+        <InterneKostenplaats></InterneKostenplaats>
+    </ExtraVergoeding>
+    <ExtraVergoeding>
+        <ExtraVergoedingType>OVER   </ExtraVergoedingType>
+        <ExtraVergoedingTypeOmschrijving>OVERGANG VAN SCHIP NAAR SCHIP      </ExtraVergoedingTypeOmschrijving>
+        <EvTypeRedenInvullen>J</EvTypeRedenInvullen>
+        <EvTypeRedenAfdrukkenPos>J</EvTypeRedenAfdrukkenPos>
+        <EvTypeOmstandighedenInvullen>J</EvTypeOmstandighedenInvullen>
+        <WnFunctieSoort1>F</WnFunctieSoort1>
+        <WnFunctieSoort2>S</WnFunctieSoort2>
+        <WnFunctieSoort3> </WnFunctieSoort3>
+        <WnFunctieSoort4> </WnFunctieSoort4>
+        <WnFunctieSoort5> </WnFunctieSoort5>
+        <WnFunctieSoort6> </WnFunctieSoort6>
+        <DivisieCode>       </DivisieCode>
+        <Uitbetalingswijze>A</Uitbetalingswijze>
+        <EvTypeBedragManueelInvullen>N</EvTypeBedragManueelInvullen>
+        <ExtraVergoedingTypeBeginDatum>19910709</ExtraVergoedingTypeBeginDatum>
+        <ExtraVergoedingTypeEindDatum>99999999</ExtraVergoedingTypeEindDatum>
+        <AttestnummerVerplicht>N</AttestnummerVerplicht>
+        <GoedkeuringVerplicht>N</GoedkeuringVerplicht>
+        <VasteKostenplaats>N</VasteKostenplaats>
+        <IdentFirma></IdentFirma>
+        <InterneKostenplaats></InterneKostenplaats>
+    </ExtraVergoeding>
+    <ExtraVergoeding>
+        <ExtraVergoedingType>PLTU   </ExtraVergoedingType>
+        <ExtraVergoedingTypeOmschrijving>PLAT UUR                           </ExtraVergoedingTypeOmschrijving>
+        <EvTypeRedenInvullen>N</EvTypeRedenInvullen>
+        <EvTypeRedenAfdrukkenPos>N</EvTypeRedenAfdrukkenPos>
+        <EvTypeOmstandighedenInvullen>N</EvTypeOmstandighedenInvullen>
+        <WnFunctieSoort1>F</WnFunctieSoort1>
+        <WnFunctieSoort2>S</WnFunctieSoort2>
+        <WnFunctieSoort3> </WnFunctieSoort3>
+        <WnFunctieSoort4> </WnFunctieSoort4>
+        <WnFunctieSoort5> </WnFunctieSoort5>
+        <WnFunctieSoort6> </WnFunctieSoort6>
+        <DivisieCode>       </DivisieCode>
+        <Uitbetalingswijze>A</Uitbetalingswijze>
+        <EvTypeBedragManueelInvullen>N</EvTypeBedragManueelInvullen>
+        <ExtraVergoedingTypeBeginDatum>19910903</ExtraVergoedingTypeBeginDatum>
+        <ExtraVergoedingTypeEindDatum>99999999</ExtraVergoedingTypeEindDatum>
+        <AttestnummerVerplicht>N</AttestnummerVerplicht>
+        <GoedkeuringVerplicht>N</GoedkeuringVerplicht>
+        <VasteKostenplaats>N</VasteKostenplaats>
+        <IdentFirma></IdentFirma>
+        <InterneKostenplaats></InterneKostenplaats>
+    </ExtraVergoeding>
+    <ExtraVergoeding>
+        <ExtraVergoedingType>SC_OPL1</ExtraVergoedingType>
+        <ExtraVergoedingTypeOmschrijving>BIJPASSING SC OPL 1STE SHIFT       </ExtraVergoedingTypeOmschrijving>
+        <EvTypeRedenInvullen>N</EvTypeRedenInvullen>
+        <EvTypeRedenAfdrukkenPos>N</EvTypeRedenAfdrukkenPos>
+        <EvTypeOmstandighedenInvullen>N</EvTypeOmstandighedenInvullen>
+        <WnFunctieSoort1>F</WnFunctieSoort1>
+        <WnFunctieSoort2>S</WnFunctieSoort2>
+        <WnFunctieSoort3> </WnFunctieSoort3>
+        <WnFunctieSoort4> </WnFunctieSoort4>
+        <WnFunctieSoort5> </WnFunctieSoort5>
+        <WnFunctieSoort6> </WnFunctieSoort6>
+        <DivisieCode>       </DivisieCode>
+        <Uitbetalingswijze>A</Uitbetalingswijze>
+        <EvTypeBedragManueelInvullen>N</EvTypeBedragManueelInvullen>
+        <ExtraVergoedingTypeBeginDatum>20190206</ExtraVergoedingTypeBeginDatum>
+        <ExtraVergoedingTypeEindDatum>99999999</ExtraVergoedingTypeEindDatum>
+        <AttestnummerVerplicht>N</AttestnummerVerplicht>
+        <GoedkeuringVerplicht>N</GoedkeuringVerplicht>
+        <VasteKostenplaats>N</VasteKostenplaats>
+        <IdentFirma></IdentFirma>
+        <InterneKostenplaats></InterneKostenplaats>
+    </ExtraVergoeding>
+    <ExtraVergoeding>
+        <ExtraVergoedingType>SC_OPL2</ExtraVergoedingType>
+        <ExtraVergoedingTypeOmschrijving>BIJPASSING SC OPLEIDING 2DE SHIFT  </ExtraVergoedingTypeOmschrijving>
+        <EvTypeRedenInvullen>N</EvTypeRedenInvullen>
+        <EvTypeRedenAfdrukkenPos>N</EvTypeRedenAfdrukkenPos>
+        <EvTypeOmstandighedenInvullen>N</EvTypeOmstandighedenInvullen>
+        <WnFunctieSoort1>F</WnFunctieSoort1>
+        <WnFunctieSoort2>S</WnFunctieSoort2>
+        <WnFunctieSoort3> </WnFunctieSoort3>
+        <WnFunctieSoort4> </WnFunctieSoort4>
+        <WnFunctieSoort5> </WnFunctieSoort5>
+        <WnFunctieSoort6> </WnFunctieSoort6>
+        <DivisieCode>       </DivisieCode>
+        <Uitbetalingswijze>A</Uitbetalingswijze>
+        <EvTypeBedragManueelInvullen>N</EvTypeBedragManueelInvullen>
+        <ExtraVergoedingTypeBeginDatum>20190206</ExtraVergoedingTypeBeginDatum>
+        <ExtraVergoedingTypeEindDatum>99999999</ExtraVergoedingTypeEindDatum>
+        <AttestnummerVerplicht>N</AttestnummerVerplicht>
+        <GoedkeuringVerplicht>N</GoedkeuringVerplicht>
+        <VasteKostenplaats>N</VasteKostenplaats>
+        <IdentFirma></IdentFirma>
+        <InterneKostenplaats></InterneKostenplaats>
+    </ExtraVergoeding>
+    <ExtraVergoeding>
+        <ExtraVergoedingType>SEMAFO1</ExtraVergoedingType>
+        <ExtraVergoedingTypeOmschrijving>SEMAFOON 1 MAAL                    </ExtraVergoedingTypeOmschrijving>
+        <EvTypeRedenInvullen>N</EvTypeRedenInvullen>
+        <EvTypeRedenAfdrukkenPos>N</EvTypeRedenAfdrukkenPos>
+        <EvTypeOmstandighedenInvullen>N</EvTypeOmstandighedenInvullen>
+        <WnFunctieSoort1>F</WnFunctieSoort1>
+        <WnFunctieSoort2>S</WnFunctieSoort2>
+        <WnFunctieSoort3> </WnFunctieSoort3>
+        <WnFunctieSoort4> </WnFunctieSoort4>
+        <WnFunctieSoort5> </WnFunctieSoort5>
+        <WnFunctieSoort6> </WnFunctieSoort6>
+        <DivisieCode>       </DivisieCode>
+        <Uitbetalingswijze>A</Uitbetalingswijze>
+        <EvTypeBedragManueelInvullen>N</EvTypeBedragManueelInvullen>
+        <ExtraVergoedingTypeBeginDatum>19980530</ExtraVergoedingTypeBeginDatum>
+        <ExtraVergoedingTypeEindDatum>99999999</ExtraVergoedingTypeEindDatum>
+        <AttestnummerVerplicht>N</AttestnummerVerplicht>
+        <GoedkeuringVerplicht>N</GoedkeuringVerplicht>
+        <VasteKostenplaats>N</VasteKostenplaats>
+        <IdentFirma></IdentFirma>
+        <InterneKostenplaats></InterneKostenplaats>
+    </ExtraVergoeding>
+    <ExtraVergoeding>
+        <ExtraVergoedingType>SEMAFO2</ExtraVergoedingType>
+        <ExtraVergoedingTypeOmschrijving>SEMAFOON 2 MAAL                    </ExtraVergoedingTypeOmschrijving>
+        <EvTypeRedenInvullen>N</EvTypeRedenInvullen>
+        <EvTypeRedenAfdrukkenPos>N</EvTypeRedenAfdrukkenPos>
+        <EvTypeOmstandighedenInvullen>N</EvTypeOmstandighedenInvullen>
+        <WnFunctieSoort1>F</WnFunctieSoort1>
+        <WnFunctieSoort2>S</WnFunctieSoort2>
+        <WnFunctieSoort3> </WnFunctieSoort3>
+        <WnFunctieSoort4> </WnFunctieSoort4>
+        <WnFunctieSoort5> </WnFunctieSoort5>
+        <WnFunctieSoort6> </WnFunctieSoort6>
+        <DivisieCode>       </DivisieCode>
+        <Uitbetalingswijze>A</Uitbetalingswijze>
+        <EvTypeBedragManueelInvullen>N</EvTypeBedragManueelInvullen>
+        <ExtraVergoedingTypeBeginDatum>19980530</ExtraVergoedingTypeBeginDatum>
+        <ExtraVergoedingTypeEindDatum>99999999</ExtraVergoedingTypeEindDatum>
+        <AttestnummerVerplicht>N</AttestnummerVerplicht>
+        <GoedkeuringVerplicht>N</GoedkeuringVerplicht>
+        <VasteKostenplaats>N</VasteKostenplaats>
+        <IdentFirma></IdentFirma>
+        <InterneKostenplaats></InterneKostenplaats>
+    </ExtraVergoeding>
+    <ExtraVergoeding>
+        <ExtraVergoedingType>SEMAFO3</ExtraVergoedingType>
+        <ExtraVergoedingTypeOmschrijving>SEMAFOON 3 MAAL                    </ExtraVergoedingTypeOmschrijving>
+        <EvTypeRedenInvullen>N</EvTypeRedenInvullen>
+        <EvTypeRedenAfdrukkenPos>N</EvTypeRedenAfdrukkenPos>
+        <EvTypeOmstandighedenInvullen>N</EvTypeOmstandighedenInvullen>
+        <WnFunctieSoort1>F</WnFunctieSoort1>
+        <WnFunctieSoort2>S</WnFunctieSoort2>
+        <WnFunctieSoort3> </WnFunctieSoort3>
+        <WnFunctieSoort4> </WnFunctieSoort4>
+        <WnFunctieSoort5> </WnFunctieSoort5>
+        <WnFunctieSoort6> </WnFunctieSoort6>
+        <DivisieCode>       </DivisieCode>
+        <Uitbetalingswijze>A</Uitbetalingswijze>
+        <EvTypeBedragManueelInvullen>N</EvTypeBedragManueelInvullen>
+        <ExtraVergoedingTypeBeginDatum>19980530</ExtraVergoedingTypeBeginDatum>
+        <ExtraVergoedingTypeEindDatum>99999999</ExtraVergoedingTypeEindDatum>
+        <AttestnummerVerplicht>N</AttestnummerVerplicht>
+        <GoedkeuringVerplicht>N</GoedkeuringVerplicht>
+        <VasteKostenplaats>N</VasteKostenplaats>
+        <IdentFirma></IdentFirma>
+        <InterneKostenplaats></InterneKostenplaats>
+    </ExtraVergoeding>
+    <ExtraVergoeding>
+        <ExtraVergoedingType>SEMAFO4</ExtraVergoedingType>
+        <ExtraVergoedingTypeOmschrijving>SEMAFOON 4 MAAL                    </ExtraVergoedingTypeOmschrijving>
+        <EvTypeRedenInvullen>N</EvTypeRedenInvullen>
+        <EvTypeRedenAfdrukkenPos>N</EvTypeRedenAfdrukkenPos>
+        <EvTypeOmstandighedenInvullen>N</EvTypeOmstandighedenInvullen>
+        <WnFunctieSoort1>F</WnFunctieSoort1>
+        <WnFunctieSoort2>S</WnFunctieSoort2>
+        <WnFunctieSoort3> </WnFunctieSoort3>
+        <WnFunctieSoort4> </WnFunctieSoort4>
+        <WnFunctieSoort5> </WnFunctieSoort5>
+        <WnFunctieSoort6> </WnFunctieSoort6>
+        <DivisieCode>       </DivisieCode>
+        <Uitbetalingswijze>A</Uitbetalingswijze>
+        <EvTypeBedragManueelInvullen>N</EvTypeBedragManueelInvullen>
+        <ExtraVergoedingTypeBeginDatum>19980530</ExtraVergoedingTypeBeginDatum>
+        <ExtraVergoedingTypeEindDatum>99999999</ExtraVergoedingTypeEindDatum>
+        <AttestnummerVerplicht>N</AttestnummerVerplicht>
+        <GoedkeuringVerplicht>N</GoedkeuringVerplicht>
+        <VasteKostenplaats>N</VasteKostenplaats>
+        <IdentFirma></IdentFirma>
+        <InterneKostenplaats></InterneKostenplaats>
+    </ExtraVergoeding>
+    <ExtraVergoeding>
+        <ExtraVergoedingType>SEMAFO5</ExtraVergoedingType>
+        <ExtraVergoedingTypeOmschrijving>SEMAFOON 5 MAAL                    </ExtraVergoedingTypeOmschrijving>
+        <EvTypeRedenInvullen>N</EvTypeRedenInvullen>
+        <EvTypeRedenAfdrukkenPos>N</EvTypeRedenAfdrukkenPos>
+        <EvTypeOmstandighedenInvullen>N</EvTypeOmstandighedenInvullen>
+        <WnFunctieSoort1>F</WnFunctieSoort1>
+        <WnFunctieSoort2>S</WnFunctieSoort2>
+        <WnFunctieSoort3> </WnFunctieSoort3>
+        <WnFunctieSoort4> </WnFunctieSoort4>
+        <WnFunctieSoort5> </WnFunctieSoort5>
+        <WnFunctieSoort6> </WnFunctieSoort6>
+        <DivisieCode>       </DivisieCode>
+        <Uitbetalingswijze>A</Uitbetalingswijze>
+        <EvTypeBedragManueelInvullen>N</EvTypeBedragManueelInvullen>
+        <ExtraVergoedingTypeBeginDatum>19980530</ExtraVergoedingTypeBeginDatum>
+        <ExtraVergoedingTypeEindDatum>99999999</ExtraVergoedingTypeEindDatum>
+        <AttestnummerVerplicht>N</AttestnummerVerplicht>
+        <GoedkeuringVerplicht>N</GoedkeuringVerplicht>
+        <VasteKostenplaats>N</VasteKostenplaats>
+        <IdentFirma></IdentFirma>
+        <InterneKostenplaats></InterneKostenplaats>
+    </ExtraVergoeding>
+    <ExtraVergoeding>
+        <ExtraVergoedingType>STUFF  </ExtraVergoedingType>
+        <ExtraVergoedingTypeOmschrijving>STUFFING                           </ExtraVergoedingTypeOmschrijving>
+        <EvTypeRedenInvullen>N</EvTypeRedenInvullen>
+        <EvTypeRedenAfdrukkenPos>N</EvTypeRedenAfdrukkenPos>
+        <EvTypeOmstandighedenInvullen>N</EvTypeOmstandighedenInvullen>
+        <WnFunctieSoort1>F</WnFunctieSoort1>
+        <WnFunctieSoort2>S</WnFunctieSoort2>
+        <WnFunctieSoort3> </WnFunctieSoort3>
+        <WnFunctieSoort4> </WnFunctieSoort4>
+        <WnFunctieSoort5> </WnFunctieSoort5>
+        <WnFunctieSoort6> </WnFunctieSoort6>
+        <DivisieCode>       </DivisieCode>
+        <Uitbetalingswijze>A</Uitbetalingswijze>
+        <EvTypeBedragManueelInvullen>N</EvTypeBedragManueelInvullen>
+        <ExtraVergoedingTypeBeginDatum>19990203</ExtraVergoedingTypeBeginDatum>
+        <ExtraVergoedingTypeEindDatum>99999999</ExtraVergoedingTypeEindDatum>
+        <AttestnummerVerplicht>N</AttestnummerVerplicht>
+        <GoedkeuringVerplicht>N</GoedkeuringVerplicht>
+        <VasteKostenplaats>N</VasteKostenplaats>
+        <IdentFirma></IdentFirma>
+        <InterneKostenplaats></InterneKostenplaats>
+    </ExtraVergoeding>
+    <ExtraVergoeding>
+        <ExtraVergoedingType>TELEFO1</ExtraVergoedingType>
+        <ExtraVergoedingTypeOmschrijving>TELEFOON 1 MAAL                    </ExtraVergoedingTypeOmschrijving>
+        <EvTypeRedenInvullen>N</EvTypeRedenInvullen>
+        <EvTypeRedenAfdrukkenPos>N</EvTypeRedenAfdrukkenPos>
+        <EvTypeOmstandighedenInvullen>N</EvTypeOmstandighedenInvullen>
+        <WnFunctieSoort1>F</WnFunctieSoort1>
+        <WnFunctieSoort2>S</WnFunctieSoort2>
+        <WnFunctieSoort3> </WnFunctieSoort3>
+        <WnFunctieSoort4> </WnFunctieSoort4>
+        <WnFunctieSoort5> </WnFunctieSoort5>
+        <WnFunctieSoort6> </WnFunctieSoort6>
+        <DivisieCode>       </DivisieCode>
+        <Uitbetalingswijze>A</Uitbetalingswijze>
+        <EvTypeBedragManueelInvullen>N</EvTypeBedragManueelInvullen>
+        <ExtraVergoedingTypeBeginDatum>19980530</ExtraVergoedingTypeBeginDatum>
+        <ExtraVergoedingTypeEindDatum>99999999</ExtraVergoedingTypeEindDatum>
+        <AttestnummerVerplicht>N</AttestnummerVerplicht>
+        <GoedkeuringVerplicht>N</GoedkeuringVerplicht>
+        <VasteKostenplaats>N</VasteKostenplaats>
+        <IdentFirma></IdentFirma>
+        <InterneKostenplaats></InterneKostenplaats>
+    </ExtraVergoeding>
+    <ExtraVergoeding>
+        <ExtraVergoedingType>TELEFO2</ExtraVergoedingType>
+        <ExtraVergoedingTypeOmschrijving>TELEFOON 2 MAAL                    </ExtraVergoedingTypeOmschrijving>
+        <EvTypeRedenInvullen>N</EvTypeRedenInvullen>
+        <EvTypeRedenAfdrukkenPos>N</EvTypeRedenAfdrukkenPos>
+        <EvTypeOmstandighedenInvullen>N</EvTypeOmstandighedenInvullen>
+        <WnFunctieSoort1>F</WnFunctieSoort1>
+        <WnFunctieSoort2>S</WnFunctieSoort2>
+        <WnFunctieSoort3> </WnFunctieSoort3>
+        <WnFunctieSoort4> </WnFunctieSoort4>
+        <WnFunctieSoort5> </WnFunctieSoort5>
+        <WnFunctieSoort6> </WnFunctieSoort6>
+        <DivisieCode>       </DivisieCode>
+        <Uitbetalingswijze>A</Uitbetalingswijze>
+        <EvTypeBedragManueelInvullen>N</EvTypeBedragManueelInvullen>
+        <ExtraVergoedingTypeBeginDatum>19980530</ExtraVergoedingTypeBeginDatum>
+        <ExtraVergoedingTypeEindDatum>99999999</ExtraVergoedingTypeEindDatum>
+        <AttestnummerVerplicht>N</AttestnummerVerplicht>
+        <GoedkeuringVerplicht>N</GoedkeuringVerplicht>
+        <VasteKostenplaats>N</VasteKostenplaats>
+        <IdentFirma></IdentFirma>
+        <InterneKostenplaats></InterneKostenplaats>
+    </ExtraVergoeding>
+    <ExtraVergoeding>
+        <ExtraVergoedingType>TELEFO3</ExtraVergoedingType>
+        <ExtraVergoedingTypeOmschrijving>TELEFOON 3 MAAL                    </ExtraVergoedingTypeOmschrijving>
+        <EvTypeRedenInvullen>N</EvTypeRedenInvullen>
+        <EvTypeRedenAfdrukkenPos>N</EvTypeRedenAfdrukkenPos>
+        <EvTypeOmstandighedenInvullen>N</EvTypeOmstandighedenInvullen>
+        <WnFunctieSoort1>F</WnFunctieSoort1>
+        <WnFunctieSoort2>S</WnFunctieSoort2>
+        <WnFunctieSoort3> </WnFunctieSoort3>
+        <WnFunctieSoort4> </WnFunctieSoort4>
+        <WnFunctieSoort5> </WnFunctieSoort5>
+        <WnFunctieSoort6> </WnFunctieSoort6>
+        <DivisieCode>       </DivisieCode>
+        <Uitbetalingswijze>A</Uitbetalingswijze>
+        <EvTypeBedragManueelInvullen>N</EvTypeBedragManueelInvullen>
+        <ExtraVergoedingTypeBeginDatum>19980530</ExtraVergoedingTypeBeginDatum>
+        <ExtraVergoedingTypeEindDatum>99999999</ExtraVergoedingTypeEindDatum>
+        <AttestnummerVerplicht>N</AttestnummerVerplicht>
+        <GoedkeuringVerplicht>N</GoedkeuringVerplicht>
+        <VasteKostenplaats>N</VasteKostenplaats>
+        <IdentFirma></IdentFirma>
+        <InterneKostenplaats></InterneKostenplaats>
+    </ExtraVergoeding>
+    <ExtraVergoeding>
+        <ExtraVergoedingType>TELEFO4</ExtraVergoedingType>
+        <ExtraVergoedingTypeOmschrijving>TELEFOON 4 MAAL                    </ExtraVergoedingTypeOmschrijving>
+        <EvTypeRedenInvullen>N</EvTypeRedenInvullen>
+        <EvTypeRedenAfdrukkenPos>N</EvTypeRedenAfdrukkenPos>
+        <EvTypeOmstandighedenInvullen>N</EvTypeOmstandighedenInvullen>
+        <WnFunctieSoort1>F</WnFunctieSoort1>
+        <WnFunctieSoort2>S</WnFunctieSoort2>
+        <WnFunctieSoort3> </WnFunctieSoort3>
+        <WnFunctieSoort4> </WnFunctieSoort4>
+        <WnFunctieSoort5> </WnFunctieSoort5>
+        <WnFunctieSoort6> </WnFunctieSoort6>
+        <DivisieCode>       </DivisieCode>
+        <Uitbetalingswijze>A</Uitbetalingswijze>
+        <EvTypeBedragManueelInvullen>N</EvTypeBedragManueelInvullen>
+        <ExtraVergoedingTypeBeginDatum>19980530</ExtraVergoedingTypeBeginDatum>
+        <ExtraVergoedingTypeEindDatum>99999999</ExtraVergoedingTypeEindDatum>
+        <AttestnummerVerplicht>N</AttestnummerVerplicht>
+        <GoedkeuringVerplicht>N</GoedkeuringVerplicht>
+        <VasteKostenplaats>N</VasteKostenplaats>
+        <IdentFirma></IdentFirma>
+        <InterneKostenplaats></InterneKostenplaats>
+    </ExtraVergoeding>
+    <ExtraVergoeding>
+        <ExtraVergoedingType>TELEFO5</ExtraVergoedingType>
+        <ExtraVergoedingTypeOmschrijving>TELEFOON 5 MAAL                    </ExtraVergoedingTypeOmschrijving>
+        <EvTypeRedenInvullen>N</EvTypeRedenInvullen>
+        <EvTypeRedenAfdrukkenPos>N</EvTypeRedenAfdrukkenPos>
+        <EvTypeOmstandighedenInvullen>N</EvTypeOmstandighedenInvullen>
+        <WnFunctieSoort1>F</WnFunctieSoort1>
+        <WnFunctieSoort2>S</WnFunctieSoort2>
+        <WnFunctieSoort3> </WnFunctieSoort3>
+        <WnFunctieSoort4> </WnFunctieSoort4>
+        <WnFunctieSoort5> </WnFunctieSoort5>
+        <WnFunctieSoort6> </WnFunctieSoort6>
+        <DivisieCode>       </DivisieCode>
+        <Uitbetalingswijze>A</Uitbetalingswijze>
+        <EvTypeBedragManueelInvullen>N</EvTypeBedragManueelInvullen>
+        <ExtraVergoedingTypeBeginDatum>19980530</ExtraVergoedingTypeBeginDatum>
+        <ExtraVergoedingTypeEindDatum>99999999</ExtraVergoedingTypeEindDatum>
+        <AttestnummerVerplicht>N</AttestnummerVerplicht>
+        <GoedkeuringVerplicht>N</GoedkeuringVerplicht>
+        <VasteKostenplaats>N</VasteKostenplaats>
+        <IdentFirma></IdentFirma>
+        <InterneKostenplaats></InterneKostenplaats>
+    </ExtraVergoeding>
+    <ExtraVergoeding>
+        <ExtraVergoedingType>TELEFO6</ExtraVergoedingType>
+        <ExtraVergoedingTypeOmschrijving>TELEFOON 6 MAAL                    </ExtraVergoedingTypeOmschrijving>
+        <EvTypeRedenInvullen>N</EvTypeRedenInvullen>
+        <EvTypeRedenAfdrukkenPos>N</EvTypeRedenAfdrukkenPos>
+        <EvTypeOmstandighedenInvullen>N</EvTypeOmstandighedenInvullen>
+        <WnFunctieSoort1>F</WnFunctieSoort1>
+        <WnFunctieSoort2>S</WnFunctieSoort2>
+        <WnFunctieSoort3> </WnFunctieSoort3>
+        <WnFunctieSoort4> </WnFunctieSoort4>
+        <WnFunctieSoort5> </WnFunctieSoort5>
+        <WnFunctieSoort6> </WnFunctieSoort6>
+        <DivisieCode>       </DivisieCode>
+        <Uitbetalingswijze>A</Uitbetalingswijze>
+        <EvTypeBedragManueelInvullen>N</EvTypeBedragManueelInvullen>
+        <ExtraVergoedingTypeBeginDatum>19990203</ExtraVergoedingTypeBeginDatum>
+        <ExtraVergoedingTypeEindDatum>99999999</ExtraVergoedingTypeEindDatum>
+        <AttestnummerVerplicht>N</AttestnummerVerplicht>
+        <GoedkeuringVerplicht>N</GoedkeuringVerplicht>
+        <VasteKostenplaats>N</VasteKostenplaats>
+        <IdentFirma></IdentFirma>
+        <InterneKostenplaats></InterneKostenplaats>
+    </ExtraVergoeding>
+    <ExtraVergoeding>
+        <ExtraVergoedingType>TOL    </ExtraVergoedingType>
+        <ExtraVergoedingTypeOmschrijving>TOL LIEFKENSHOEKTUNNEL             </ExtraVergoedingTypeOmschrijving>
+        <EvTypeRedenInvullen>N</EvTypeRedenInvullen>
+        <EvTypeRedenAfdrukkenPos>N</EvTypeRedenAfdrukkenPos>
+        <EvTypeOmstandighedenInvullen>N</EvTypeOmstandighedenInvullen>
+        <WnFunctieSoort1>F</WnFunctieSoort1>
+        <WnFunctieSoort2>S</WnFunctieSoort2>
+        <WnFunctieSoort3> </WnFunctieSoort3>
+        <WnFunctieSoort4> </WnFunctieSoort4>
+        <WnFunctieSoort5> </WnFunctieSoort5>
+        <WnFunctieSoort6> </WnFunctieSoort6>
+        <DivisieCode>       </DivisieCode>
+        <Uitbetalingswijze>A</Uitbetalingswijze>
+        <EvTypeBedragManueelInvullen>N</EvTypeBedragManueelInvullen>
+        <ExtraVergoedingTypeBeginDatum>20030703</ExtraVergoedingTypeBeginDatum>
+        <ExtraVergoedingTypeEindDatum>99999999</ExtraVergoedingTypeEindDatum>
+        <AttestnummerVerplicht>N</AttestnummerVerplicht>
+        <GoedkeuringVerplicht>N</GoedkeuringVerplicht>
+        <VasteKostenplaats>N</VasteKostenplaats>
+        <IdentFirma></IdentFirma>
+        <InterneKostenplaats></InterneKostenplaats>
+    </ExtraVergoeding>
+    <ExtraVergoeding>
+        <ExtraVergoedingType>TOL2X  </ExtraVergoedingType>
+        <ExtraVergoedingTypeOmschrijving>TOL LIEFKENSHOEK HEEN EN TERUG     </ExtraVergoedingTypeOmschrijving>
+        <EvTypeRedenInvullen>N</EvTypeRedenInvullen>
+        <EvTypeRedenAfdrukkenPos>N</EvTypeRedenAfdrukkenPos>
+        <EvTypeOmstandighedenInvullen>N</EvTypeOmstandighedenInvullen>
+        <WnFunctieSoort1>F</WnFunctieSoort1>
+        <WnFunctieSoort2>S</WnFunctieSoort2>
+        <WnFunctieSoort3> </WnFunctieSoort3>
+        <WnFunctieSoort4> </WnFunctieSoort4>
+        <WnFunctieSoort5> </WnFunctieSoort5>
+        <WnFunctieSoort6> </WnFunctieSoort6>
+        <DivisieCode>       </DivisieCode>
+        <Uitbetalingswijze>A</Uitbetalingswijze>
+        <EvTypeBedragManueelInvullen>N</EvTypeBedragManueelInvullen>
+        <ExtraVergoedingTypeBeginDatum>20150102</ExtraVergoedingTypeBeginDatum>
+        <ExtraVergoedingTypeEindDatum>99999999</ExtraVergoedingTypeEindDatum>
+        <AttestnummerVerplicht>N</AttestnummerVerplicht>
+        <GoedkeuringVerplicht>N</GoedkeuringVerplicht>
+        <VasteKostenplaats>N</VasteKostenplaats>
+        <IdentFirma></IdentFirma>
+        <InterneKostenplaats></InterneKostenplaats>
+    </ExtraVergoeding>
+    <ExtraVergoeding>
+        <ExtraVergoedingType>WACHT  </ExtraVergoedingType>
+        <ExtraVergoedingTypeOmschrijving>VAN WACHT                          </ExtraVergoedingTypeOmschrijving>
+        <EvTypeRedenInvullen>N</EvTypeRedenInvullen>
+        <EvTypeRedenAfdrukkenPos>N</EvTypeRedenAfdrukkenPos>
+        <EvTypeOmstandighedenInvullen>N</EvTypeOmstandighedenInvullen>
+        <WnFunctieSoort1>F</WnFunctieSoort1>
+        <WnFunctieSoort2>S</WnFunctieSoort2>
+        <WnFunctieSoort3> </WnFunctieSoort3>
+        <WnFunctieSoort4> </WnFunctieSoort4>
+        <WnFunctieSoort5> </WnFunctieSoort5>
+        <WnFunctieSoort6> </WnFunctieSoort6>
+        <DivisieCode>       </DivisieCode>
+        <Uitbetalingswijze>A</Uitbetalingswijze>
+        <EvTypeBedragManueelInvullen>N</EvTypeBedragManueelInvullen>
+        <ExtraVergoedingTypeBeginDatum>19980530</ExtraVergoedingTypeBeginDatum>
+        <ExtraVergoedingTypeEindDatum>99999999</ExtraVergoedingTypeEindDatum>
+        <AttestnummerVerplicht>N</AttestnummerVerplicht>
+        <GoedkeuringVerplicht>N</GoedkeuringVerplicht>
+        <VasteKostenplaats>N</VasteKostenplaats>
+        <IdentFirma></IdentFirma>
+        <InterneKostenplaats></InterneKostenplaats>
+    </ExtraVergoeding>
+</BasistabelExtraVergoeding>

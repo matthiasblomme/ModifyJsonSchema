@@ -1,0 +1,182 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "additionalItems": false,
+  "additionalProperties": false,
+  "type": "object",
+  "properties": {
+    "TransportApproval": {
+      "type": "object",
+      "$ref": "#/definitions/TransportApproval"
+    }
+  },
+  "definitions": {
+    "MessageHeaderType": {
+      "type": "object",
+      "properties": {
+        "EventName": {
+          "type": "string"
+        },
+        "Source": {
+          "type": "string"
+        },
+        "Timestamp": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "User": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "EventName",
+        "Source",
+        "Timestamp",
+        "User"
+      ]
+    },
+    "EntityType": {
+      "type": "object",
+      "properties": {
+        "Id": {
+          "type": "string"
+        },
+        "Version": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "Id"
+      ],
+      "additionalProperties": true
+    },
+    "WeightType": {
+      "type": "object",
+      "properties": {
+        "Value": {
+          "type": "number"
+        },
+        "WeightUnit": {
+          "type": "string",
+          "enum": [
+            "t",
+            "kg",
+            "g",
+            "lbs",
+            "ST",
+            "LT"
+          ]
+        }
+      },
+      "additionalProperties": false
+    },
+    "TransportApprovalType": {
+      "unevaluatedProperties": false,
+      "allOf": [
+        {
+          "$ref": "#/definitions/EntityType"
+        },
+        {
+          "type": "object",
+          "properties": {
+            "DriverStatus": {
+              "type": "string"
+            },
+            "ResponseCode": {
+              "type": "string"
+            },
+            "ResponseText": {
+              "type": "string"
+            },
+            "Terminal": {
+              "type": "string"
+            },
+            "NextTerminal": {
+              "type": "string"
+            },
+            "Container": {
+              "type": "array",
+              "items": {
+                "type": "object",
+                "properties": {
+                  "Id": {
+                    "type": "string"
+                  },
+                  "Direction": {
+                    "type": "string"
+                  },
+                  "Tar": {
+                    "type": "string"
+                  },
+                  "DamageCodes": {
+                    "type": "array",
+                    "items": {
+                      "type": "string"
+                    }
+                  },
+                  "AdrCodes": {
+                    "type": "array",
+                    "items": [
+                      {
+                        "type": "object",
+                        "properties": {
+                          "Un": {
+                            "type": "string"
+                          },
+                          "Imdg": {
+                            "type": "string"
+                          }
+                        },
+                        "required": [
+                          "Un",
+                          "Imdg"
+                        ],
+                        "additionalProperties": false
+                      }
+                    ]
+                  },
+                  "Seals": {
+                    "type": "array",
+                    "items": {
+                      "type": "string"
+                    }
+                  },
+                  "GrossWeight": {
+                    "$ref": "#/definitions/WeightType"
+                  }
+                },
+                "required": [
+                  "Id",
+                  "Direction",
+                  "Tar",
+                  "DamageCodes"
+                ],
+                "additionalProperties": false
+              }
+            }
+          },
+          "required": [
+            "DriverStatus",
+            "ResponseCode",
+            "ResponseText",
+            "Terminal"
+          ]
+        }
+      ]
+    },
+    "TransportApproval": {
+      "type": "object",
+      "properties": {
+        "Header": {
+          "$ref": "#/definitions/MessageHeaderType"
+        },
+        "Body": {
+          "$ref": "#/definitions/TransportApprovalType"
+        }
+      },
+      "required": [
+        "Header",
+        "Body"
+      ]
+    }
+  }
+}

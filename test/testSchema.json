@@ -1,0 +1,73 @@
+{
+  "type": "object",
+  "properties": {
+    "TransportApproval": {
+      "type": "object",
+      "properties": {
+        "Header": {
+          "type": "object",
+          "properties": {
+            "User": {
+              "type": "string"
+            },
+            "EventName": {
+              "type": "string"
+            },
+            "Timestamp": {
+              "type": "string"
+            },
+            "Source": {
+              "type": "string"
+            }
+          }
+        },
+        "Body": {
+          "type": "object",
+          "properties": {
+            "ResponseCode": {
+              "type": "string"
+            },
+            "Container": {
+              "type": "array",
+              "items": {
+                "properties": {
+                  "Tar": {
+                    "type": "string"
+                  },
+                  "Id": {
+                    "type": "string"
+                  },
+                  "Direction": {
+                    "type": "string"
+                  },
+                  "DamageCodes": {
+                    "type": "array",
+                    "items": {}
+                  }
+                }
+              }
+            },
+            "NextTerminal": {
+              "type": "string"
+            },
+            "Version": {
+              "type": "number"
+            },
+            "ResponseText": {
+              "type": "string"
+            },
+            "Id": {
+              "type": "string"
+            },
+            "DriverStatus": {
+              "type": "string"
+            },
+            "Terminal": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    }
+  }
+}
