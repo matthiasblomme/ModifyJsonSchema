@@ -8,43 +8,43 @@ paths:
       description: |
         Retrieves the booking request _metadata_
       parameters:
-        - $ref: '#/components/parameters/documentStatus'
+        - $ref: "#/components/parameters/documentStatus"
 
-        - $ref: 'https://api.swaggerhub.com/domains/dcsaorg/DCSA_DOMAIN/2.0.0#/components/parameters/limit'
-        - $ref: 'https://api.swaggerhub.com/domains/dcsaorg/DCSA_DOMAIN/2.0.0#/components/parameters/cursor'
-        - $ref: 'https://api.swaggerhub.com/domains/dcsaorg/DCSA_DOMAIN/2.0.0#/components/parameters/sort'
-        - $ref: 'https://api.swaggerhub.com/domains/dcsaorg/DCSA_DOMAIN/2.0.0#/components/parameters/Api-Version-Major'
+        - $ref: "https://api.swaggerhub.com/domains/dcsaorg/DCSA_DOMAIN/2.0.0#/components/parameters/limit"
+        - $ref: "https://api.swaggerhub.com/domains/dcsaorg/DCSA_DOMAIN/2.0.0#/components/parameters/cursor"
+        - $ref: "https://api.swaggerhub.com/domains/dcsaorg/DCSA_DOMAIN/2.0.0#/components/parameters/sort"
+        - $ref: "https://api.swaggerhub.com/domains/dcsaorg/DCSA_DOMAIN/2.0.0#/components/parameters/Api-Version-Major"
       responses:
-        '200':
+        "200":
           description: Request successful
           headers:
             API-Version:
-              $ref: 'https://api.swaggerhub.com/domains/dcsaorg/DCSA_DOMAIN/2.0.0#/components/headers/API-Version'
+              $ref: "https://api.swaggerhub.com/domains/dcsaorg/DCSA_DOMAIN/2.0.0#/components/headers/API-Version"
             Current-Page:
-              $ref: 'https://api.swaggerhub.com/domains/dcsaorg/DCSA_DOMAIN/2.0.0#/components/headers/Current-Page'
+              $ref: "https://api.swaggerhub.com/domains/dcsaorg/DCSA_DOMAIN/2.0.0#/components/headers/Current-Page"
             Next-Page:
-              $ref: 'https://api.swaggerhub.com/domains/dcsaorg/DCSA_DOMAIN/2.0.0#/components/headers/Next-Page'
+              $ref: "https://api.swaggerhub.com/domains/dcsaorg/DCSA_DOMAIN/2.0.0#/components/headers/Next-Page"
             Prev-Page:
-              $ref: 'https://api.swaggerhub.com/domains/dcsaorg/DCSA_DOMAIN/2.0.0#/components/headers/Prev-Page'
+              $ref: "https://api.swaggerhub.com/domains/dcsaorg/DCSA_DOMAIN/2.0.0#/components/headers/Prev-Page"
             Last-Page:
-              $ref: 'https://api.swaggerhub.com/domains/dcsaorg/DCSA_DOMAIN/2.0.0#/components/headers/Last-Page'
+              $ref: "https://api.swaggerhub.com/domains/dcsaorg/DCSA_DOMAIN/2.0.0#/components/headers/Last-Page"
             First-Page:
-              $ref: 'https://api.swaggerhub.com/domains/dcsaorg/DCSA_DOMAIN/2.0.0#/components/headers/First-Page'
+              $ref: "https://api.swaggerhub.com/domains/dcsaorg/DCSA_DOMAIN/2.0.0#/components/headers/First-Page"
           content:
             application/json:
               schema:
                 type: array
                 items:
-                  $ref: 'https://api.swaggerhub.com/domains/dcsaorg/DOCUMENTATION_DOMAIN/2.0.0#/components/schemas/bookingSummary'
+                  $ref: "https://api.swaggerhub.com/domains/dcsaorg/DOCUMENTATION_DOMAIN/2.0.0#/components/schemas/bookingSummary"
         default:
           description: Unexpected error
           headers:
             API-Version:
-              $ref: 'https://api.swaggerhub.com/domains/dcsaorg/DCSA_DOMAIN/2.0.0#/components/headers/API-Version'
+              $ref: "https://api.swaggerhub.com/domains/dcsaorg/DCSA_DOMAIN/2.0.0#/components/headers/API-Version"
           content:
             application/json:
               schema:
-                $ref: 'https://api.swaggerhub.com/domains/dcsaorg/ERROR_DOMAIN/1.1.0#/components/schemas/error'
+                $ref: "https://api.swaggerhub.com/domains/dcsaorg/ERROR_DOMAIN/1.1.0#/components/schemas/error"
 components:
   parameters:
 
@@ -58,13 +58,13 @@ components:
       description: |
         The `carrierBookingRequestReference` of the booking request to match
       schema:
-        $ref: 'https://api.swaggerhub.com/domains/dcsaorg/DCSA_DOMAIN/2.0.0#/components/schemas/carrierBookingRequestReference'
+        $ref: "https://api.swaggerhub.com/domains/dcsaorg/DCSA_DOMAIN/2.0.0#/components/schemas/carrierBookingRequestReference"
       required: true
     carrierBookingReferencePathParam:
       in: path
       name: carrierBookingReference
       schema:
-        $ref: 'https://api.swaggerhub.com/domains/dcsaorg/DCSA_DOMAIN/2.0.0#/components/schemas/carrierBookingReference'
+        $ref: "https://api.swaggerhub.com/domains/dcsaorg/DCSA_DOMAIN/2.0.0#/components/schemas/carrierBookingReference"
       required: true
 
     ##############
@@ -77,7 +77,7 @@ components:
       description: |
         A set of unique characters to identify a resource. Specifying this filter will only return events related to this particular `documentID`. The `documentID` can point to a bookingRequest (`CBR`) or to a confirmed booking (`BKG`)
       schema:
-        $ref: 'https://api.swaggerhub.com/domains/dcsaorg/EVENT_DOMAIN/2.0.0#/components/schemas/documentID'
+        $ref: "https://api.swaggerhub.com/domains/dcsaorg/EVENT_DOMAIN/2.0.0#/components/schemas/documentID"
     documentStatus:
       in: query
       name: documentStatus
@@ -92,7 +92,7 @@ components:
         - CMPL (Completed)
         More details can be found on <a href="https://github.com/dcsaorg/DCSA-Information-Model/blob/master/datamodel/referencedata.d/shipmenteventtypecodes.csv">GitHub</a>. Be aware that the list linked to is the `ShipmentEventTypeCodes` which is equivalent to `documentStatus`, the list is a subset of the possible values.
       schema:
-        $ref: 'https://api.swaggerhub.com/domains/dcsaorg/DOCUMENTATION_DOMAIN/2.0.0#/components/schemas/bookingDocumentStatus'
+        $ref: "https://api.swaggerhub.com/domains/dcsaorg/DOCUMENTATION_DOMAIN/2.0.0#/components/schemas/bookingDocumentStatus"
     documentTypeCodes:
       in: query
       name: documentTypeCode
@@ -109,7 +109,7 @@ components:
         default: [ CBR,BKG ]
         type: array
         items:
-          $ref: 'https://api.swaggerhub.com/domains/dcsaorg/DOCUMENTATION_DOMAIN/2.0.0#/components/schemas/bookingDocumentTypeCode'
+          $ref: "https://api.swaggerhub.com/domains/dcsaorg/DOCUMENTATION_DOMAIN/2.0.0#/components/schemas/bookingDocumentTypeCode"
     carrierBookingRequestReferenceQueryParam:
       in: query
       name: carrierBookingRequestReference
@@ -118,7 +118,7 @@ components:
         
         Specifying this filter will only return booking requests related to this particular `carrierBookingRequestReference`.
       schema:
-        $ref: 'https://api.swaggerhub.com/domains/dcsaorg/DCSA_DOMAIN/2.0.0#/components/schemas/carrierBookingRequestReference'
+        $ref: "https://api.swaggerhub.com/domains/dcsaorg/DCSA_DOMAIN/2.0.0#/components/schemas/carrierBookingRequestReference"
     carrierBookingReferenceQueryParam:
       in: query
       name: carrierBookingReference
@@ -127,7 +127,7 @@ components:
         
         Specifying this filter will only return confirmed bookings related to this particular `carrierBookingReference`.
       schema:
-        $ref: 'https://api.swaggerhub.com/domains/dcsaorg/DCSA_DOMAIN/2.0.0#/components/schemas/carrierBookingReference'
+        $ref: "https://api.swaggerhub.com/domains/dcsaorg/DCSA_DOMAIN/2.0.0#/components/schemas/carrierBookingReference"
     shipmentEventTypeCodes:
       in: query
       name: shipmentEventTypeCode
