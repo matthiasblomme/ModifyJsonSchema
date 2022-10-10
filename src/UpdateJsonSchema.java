@@ -49,11 +49,14 @@ public class UpdateJsonSchema {
                 "            \"type\": \"object\",\n" +
                 "            \"required\": [\""+ jsonSchemaObject + "\"], \n" +
                 "            \"properties\": {\n" +
-                "                \"VisitTruck\": {\"$ref\": \"#/definitions/VisitTruck\"}\n" +
+                "                \""+ jsonSchemaObject +"\": {\"$ref\": \"#/definitions/" + jsonSchemaObject + "\"}\n" +
                 "            }\n" +
                 "        } \n" +
                 "    ]\n" +
                 "}";
+
+        File directory = new File(Paths.get(jsonInputSchemaFile).getParent() + File.separator + "generated");
+        if (!directory.exists()) directory.mkdir();
 
         System.out.println("Updating " + jsonInputSchemaFile + " for " + jsonSchemaObject);
         List<String> replacedContent = handleFile(jsonInputSchemaFile);
@@ -76,7 +79,7 @@ public class UpdateJsonSchema {
                 Pattern p = Pattern.compile(startPattern);
                 Matcher m = p.matcher(line);
                 if (m.matches()) {
-                    System.out.println("Adding entry for default schema");
+                    //System.out.println("Adding entry for default schema");
                     replaced.add(defaultSchema);
                     continue;
                 }
@@ -87,34 +90,34 @@ public class UpdateJsonSchema {
                 if (m.matches()) {
                     String spaces = m.group(1);
                     String type = m.group(2);
-                    System.out.println("Found entry for jsonix def: " + type);
+                    //System.out.println("Found entry for jsonix def: " + type);
                     String newLine;
                     switch (type) {
                         case "string" :
                         case "ID" : //very typical one that was not translated by jsonix due to it being a nested type
                             newLine = spaces + "\"type\": \"string\"";
-                            System.out.println("   Replacing with json string");
+                            //System.out.println("   Replacing with json string");
                             break;
                         case "decimal" :
                             newLine = spaces + "\"type\": \"number\"";
-                            System.out.println("   Replacing with json number");
+                            //System.out.println("   Replacing with json number");
                             break;
                         case "int":
                         case "integer" :
                             newLine = spaces + "\"type\": \"integer\"";
-                            System.out.println("   Replacing with json integer");
+                            //System.out.println("   Replacing with json integer");
                             break;
                         case "dateTime" :
                             newLine = spaces + "\"type\": \"string\"," + "\n" + spaces + "\"format\": \"date-time\"";
-                            System.out.println("   Replacing with json string and format date-time");
+                            //System.out.println("   Replacing with json string and format date-time");
                             break;
                         case "boolean" :
                             newLine = spaces + "\"type\": \"boolean\"";
-                            System.out.println("   Replacing with json boolean");
+                            //System.out.println("   Replacing with json boolean");
                             break;
                         default :
                             newLine = spaces + "\"type\": \"YOU SHALL NOT PASS!!!\"";
-                            System.out.println("   >>>>> Did not find a match for type");
+                            //System.out.println("   >>>>> Did not find a match for type");
                             break;
                     }
                     replaced.add(newLine);
@@ -122,10 +125,10 @@ public class UpdateJsonSchema {
                 }
 
                 //replace anyOf
-                p = Pattern.compile("\\s+\"anyOf\".*");
+                p = Pattern.compile("\\s{4}\"anyOf\".*");
                 m = p.matcher(line);
                 if (m.matches()) {
-                    System.out.println("found entry for anyOf");
+                    //System.out.println("found entry for anyOf");
                     replaced.add(anyOf);
                     break;
                 }
