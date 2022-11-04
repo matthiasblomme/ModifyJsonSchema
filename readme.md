@@ -29,7 +29,7 @@ In order to make the generated jsonix schemas usable, I needed to do some small 
 After running the jsonix compile
 
 `#java -jar JSONIX/jsonix-schema-compiler-full-2.3.9.jar -compact -generateJsonSchema [Input XSD Schema] -d [Output directory] -p [Schema Object]`
-`java -jar JSONIX/jsonix-schema-compiler-full-2.3.9.jar -compact -generateJsonSchema ..\test\Note.xsd -d ..\test -p Note`
+`java -jar JSONIX/jsonix-schema-compiler-full-2.3.9.jar -compact -generateJsonSchema test\Note.xsd -d test -p Note`
 
 (more info on cli can be found on [GitHub](https://github.com/highsource/jsonix-schema-compiler/wiki/Command-Line-Usage))
 You run the UpdateJsonSchema code:

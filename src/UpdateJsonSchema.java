@@ -39,29 +39,50 @@ public class UpdateJsonSchema {
      *  java -jar jsonix-schema-compiler-full-2.3.9.jar -compact -generateJsonSchema [xsd schema] -d [output jsonix dir] -p [Json Schema object]
      * @param args Input arguments
      */
-    public static void main(String[] args) throws IOException {
-        String jsonInputSchemaFile = args[0];
-        String jsonSchemaObject = args[1];
-        String jsonOutputSchemaFile = Paths.get(jsonInputSchemaFile).getParent() + File.separator + "generated" + File.separator + jsonSchemaObject + ".schema.json";
+    public static void main(String[] args) {
+        //java -jar JSONIX/jsonix-schema-compiler-full-2.3.9.jar -compact -generateJsonSchema test\Note.xsd -d test\jsonixout -p Note
+        //TODO check that dir is absolute, or make it absolute
+        String inputXsdSchema = args[0];
+        String outputDirectory = args[1];
+        String jsonSchemaObject = args[2];
 
-        anyOf = "\t\"allOf\": [\n" +
-                "        {\n" +
-                "            \"type\": \"object\",\n" +
-                "            \"required\": [\""+ jsonSchemaObject + "\"], \n" +
-                "            \"properties\": {\n" +
-                "                \""+ jsonSchemaObject +"\": {\"$ref\": \"#/definitions/" + jsonSchemaObject + "\"}\n" +
-                "            }\n" +
-                "        } \n" +
-                "    ]\n" +
-                "}";
+        try {
+            JsonixRunner jsonixRun = new JsonixRunner(inputXsdSchema, outputDirectory, jsonSchemaObject);
 
-        File directory = new File(Paths.get(jsonInputSchemaFile).getParent() + File.separator + "generated");
-        if (!directory.exists()) directory.mkdir();
+            jsonixRun.execute();
 
-        System.out.println("Updating " + jsonInputSchemaFile + " for " + jsonSchemaObject);
-        List<String> replacedContent = handleFile(jsonInputSchemaFile);
-        Files.write(Paths.get(jsonOutputSchemaFile), replacedContent);
-        System.out.println("\nGenerated " + jsonOutputSchemaFile);
+//            if (jsonixRun.failed()) {
+//                jsonixRun.getOutput().stream().forEach(System.out::println);
+//                jsonixRun.getError().stream().forEach(System.err::println);
+//            } else {
+//                jsonixRun.getOutput().stream().forEach(System.out::println);
+//            }
+
+            String jsonInputSchemaFile = jsonixRun.getJsonSchema();
+            String jsonOutputSchemaFile = Paths.get(jsonInputSchemaFile).getParent() + File.separator + jsonSchemaObject + ".schema.json";
+
+            anyOf = "\t\"allOf\": [\n" +
+                    "        {\n" +
+                    "            \"type\": \"object\",\n" +
+                    "            \"required\": [\""+ jsonSchemaObject + "\"], \n" +
+                    "            \"properties\": {\n" +
+                    "                \""+ jsonSchemaObject +"\": {\"$ref\": \"#/definitions/" + jsonSchemaObject + "\"}\n" +
+                    "            }\n" +
+                    "        } \n" +
+                    "    ]\n" +
+                    "}";
+
+            System.out.println("Updating " + jsonInputSchemaFile + " for " + jsonSchemaObject);
+            List<String> replacedContent = handleFile(jsonInputSchemaFile);
+            Files.write(Paths.get(jsonOutputSchemaFile), replacedContent);
+            System.out.println("Generated " + jsonOutputSchemaFile);
+
+            jsonixRun.cleanUp();
+
+        } catch (Exception e) {
+            System.out.println("An exception occured while running UpdateJsonSchema: " + e.getMessage());
+            e.printStackTrace();
+        }
     }
 
     /**
@@ -111,6 +132,10 @@ public class UpdateJsonSchema {
                             newLine = spaces + "\"type\": \"string\"," + "\n" + spaces + "\"format\": \"date-time\"";
                             //System.out.println("   Replacing with json string and format date-time");
                             break;
+//                        case "date" : //2022-10-11    YYYY-MM-DD
+//                            newLine = spaces + "\"type\": \"string\"," + "\n" + spaces + "\"pattern\": \"^\\d{4}-\\d{2}-\\d{2}$\"";
+//                            //System.out.println("   Replacing with json string and format date-time");
+//                            break;
                         case "boolean" :
                             newLine = spaces + "\"type\": \"boolean\"";
                             //System.out.println("   Replacing with json boolean");
