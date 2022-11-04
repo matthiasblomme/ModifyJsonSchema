@@ -14,7 +14,7 @@ public class Command
     static StreamGobbler errorGobbler;
     static StreamGobbler outputGobbler;
 
-    public static ArrayList<> getOutput() {
+    public static ArrayList getOutput() {
         return outputGobbler.getOutput();
     }
 
