@@ -3,7 +3,6 @@
     <output-path>$PROJECT_DIR$/out/artifacts/ModifyJsonSchema_jar</output-path>
     <root id="archive" name="ModifyJsonSchema.jar">
       <element id="module-output" name="ModifyJsonSchema" />
-      <element id="library" level="project" name="commons-configuration2-2.8.0" />
     </root>
   </artifact>
 </component>

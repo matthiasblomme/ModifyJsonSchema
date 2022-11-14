@@ -30,8 +30,8 @@ More info on Jsonix cli can be found on [GitHub](https://github.com/highsource/j
 
 Run
 
-`#java -jar out\artifacts\ModifyJsonSchema_jar\ModifyJsonSchema.jar [input xsd file path] [output directory] [Json schema object]`<br />
-`java -jar out\artifacts\ModifyJsonSchema_jar\ModifyJsonSchema.jar test\Note.xsd test\jsonixout Note` 
+`#java -classpath out\artifacts\ModifyJsonSchema_jar\ModifyJsonSchema.jar;lib\* UpdateJsonSchema [input xsd file path] [output directory] [Json schema object]`<br />
+`java -classpath out\artifacts\ModifyJsonSchema_jar\ModifyJsonSchema.jar;lib\* UpdateJsonSchema test\Note.xsd test\jsonixout Note` 
 
 A file is generated under "[output directory]\generated\" with the name "[json schema object].schema.json"
 
