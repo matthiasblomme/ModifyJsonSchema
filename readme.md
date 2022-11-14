@@ -26,18 +26,14 @@ In order to make the generated jsonix schemas usable, I needed to do some small 
 ![img_7.png](img_7.png)
 
 ## Usage
-After running the jsonix compile
+More info on Jsonix cli can be found on [GitHub](https://github.com/highsource/jsonix-schema-compiler/wiki/Command-Line-Usage)
 
-`#java -jar JSONIX/jsonix-schema-compiler-full-2.3.9.jar -compact -generateJsonSchema [Input XSD Schema] -d [Output directory] -p [Schema Object]`
-`java -jar JSONIX/jsonix-schema-compiler-full-2.3.9.jar -compact -generateJsonSchema test\Note.xsd -d test -p Note`
+Run
 
-(more info on cli can be found on [GitHub](https://github.com/highsource/jsonix-schema-compiler/wiki/Command-Line-Usage))
-You run the UpdateJsonSchema code:
+`#java -jar out\artifacts\ModifyJsonSchema_jar\ModifyJsonSchema.jar [input xsd file path] [output directory] [Json schema object]`<br />
+`java -jar out\artifacts\ModifyJsonSchema_jar\ModifyJsonSchema.jar test\Note.xsd test\jsonixout Note` 
 
-`#java -jar out\artifacts\ModifyJsonSchema_jar\ModifyJsonSchema.jar [input file path] [Json schema object]`<br />
-`java -jar out\artifacts\ModifyJsonSchema_jar\ModifyJsonSchema.jar ..\test\Note.jsonschema Note` 
-
-A file is generated under "[inputFolder]\generated\" with the name "[json schema object].schema.json"
+A file is generated under "[output directory]\generated\" with the name "[json schema object].schema.json"
 
 ## Resources 
 Jsonix Schema compiler: Generating json schema's from xsd's.<br />

@@ -27,8 +27,8 @@ public class UpdateJsonSchema {
 
     static final String titlePattern = "(.*:\")([A-Z])(.*?\".*)";
     static final String fieldPattern = "(\\s+\")([A-Z])(.*?:\\{\\s*)";
-    static final String refPattern1 = "(.*#\\/definitions\\/)([A-Z])(.*)";
-    static final String refPattern2 = "(.*#\\/definitions\\/.*\\.)([A-Z])(.*)";
+    static final String refPattern1 = "(.*#/definitions/)([A-Z])(.*)";
+    static final String refPattern2 = "(.*#/definitions/.*\\.)([A-Z])(.*)";
 
     /**
      * Pattern that matches the jsonix schema definitions
@@ -39,29 +39,20 @@ public class UpdateJsonSchema {
      *  - input file of the jsonix schema definition
      *  - Name of the json schema object/file
      *  The generated output file is ./generated/[SchemaObject].schema.json
-     *
      *  You need to run the jsonix schema generation first
      *  java -jar jsonix-schema-compiler-full-2.3.9.jar -compact -generateJsonSchema [xsd schema] -d [output jsonix dir] -p [Json Schema object]
      * @param args Input arguments
      */
     public static void main(String[] args) {
         //java -jar JSONIX/jsonix-schema-compiler-full-2.3.9.jar -compact -generateJsonSchema test\Note.xsd -d test\jsonixout -p Note
-        //TODO check that dir is absolute, or make it absolute
         String inputXsdSchema = args[0];
         String outputDirectory = args[1];
         String jsonSchemaObject = args[2];
 
         try {
-            JsonixRunner jsonixRun = new JsonixRunner(inputXsdSchema, outputDirectory, jsonSchemaObject);
-
+            JsonixRunner jsonixRun;
+            jsonixRun = new JsonixRunner(inputXsdSchema, outputDirectory, jsonSchemaObject);
             jsonixRun.execute();
-
-//            if (jsonixRun.failed()) {
-//                jsonixRun.getOutput().stream().forEach(System.out::println);
-//                jsonixRun.getError().stream().forEach(System.err::println);
-//            } else {
-//                jsonixRun.getOutput().stream().forEach(System.out::println);
-//            }
 
             String jsonInputSchemaFile = jsonixRun.getJsonSchema();
             String jsonOutputSchemaFile = Paths.get(jsonInputSchemaFile).getParent() + File.separator + jsonSchemaObject + ".schema.json";
