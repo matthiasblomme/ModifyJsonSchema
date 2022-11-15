@@ -25,8 +25,8 @@ public class JsonixRunner {
         //java -jar JSONIX/jsonix-schema-compiler-full-2.3.9.jar -compact -generateJsonSchema test\Note.xsd -d test\jsonixout -p Note
         String[] pathsToCheck = new String[]{"JSONIX/jsonix-schema-compiler-full-2.3.9.jar", inputXsdSchema, outputDirectory};
         checkPaths(pathsToCheck);
-        commandString = new String[]{"java", "-jar", pathsToCheck[0], "-compact", "-generateJsonSchema", pathsToCheck[1], "-d", pathsToCheck[2], "-p", jsonSchemaObject};
-        tempDirectory = commandString[7] + File.separator + "tempScript";
+        commandString = new String[]{"java", "-jar", pathsToCheck[0], "-compact", "-generateJsonSchema", "\"" + pathsToCheck[1] + "\"", "-d", "\"" + pathsToCheck[2] + "\"" , "-p", jsonSchemaObject};
+        tempDirectory = commandString[7].replace("\"", "") + File.separator + "tempScript";
         tempScript = tempDirectory + File.separator + "jsonix.bat";
     }
 
@@ -47,6 +47,7 @@ public class JsonixRunner {
 
         //create script
         File f = new File(tempScript);
+        //System.out.println("Writing " + tempScript);
         f.createNewFile();
 
         //write script
@@ -77,7 +78,7 @@ public class JsonixRunner {
     }
 
     public String getJsonSchema() throws Exception {
-        String outDir = commandString[7];
+        String outDir = commandString[7].replace("\"", "");
         String fileName = commandString[9] + ".jsonschema";
         String generatedJsonSchema = outDir + File.separator + fileName;
 
@@ -94,9 +95,9 @@ public class JsonixRunner {
     }
 
     public void cleanUp() {
-        File f = new File(commandString[7] + File.separator + commandString[9] + ".jsonschema");
+        File f = new File(commandString[7].replace("\"", "") + File.separator + commandString[9] + ".jsonschema");
         f.delete();
-        f = new File(commandString[7] + File.separator + commandString[9] + ".js");
+        f = new File(commandString[7].replace("\"", "") + File.separator + commandString[9] + ".js");
         f.delete();
     }
 }

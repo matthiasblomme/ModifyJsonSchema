@@ -45,13 +45,13 @@ public class UpdateJsonSchema {
      */
     public static void main(String[] args) {
         //java -jar JSONIX/jsonix-schema-compiler-full-2.3.9.jar -compact -generateJsonSchema test\Note.xsd -d test\jsonixout -p Note
-        String inputXsdSchema = args[0];
-        String outputDirectory = args[1];
-        String jsonSchemaObject = args[2];
+        String inputXsdSchema = args[0].replace("\"","");
+        String outputDirectory = args[1].replace("\"","");
+        String jsonSchemaObject = args[2].replace("\"","");
 
         try {
             JsonixRunner jsonixRun;
-            jsonixRun = new JsonixRunner(inputXsdSchema, outputDirectory, jsonSchemaObject);
+             jsonixRun = new JsonixRunner(inputXsdSchema, outputDirectory, jsonSchemaObject);
             jsonixRun.execute();
 
             String jsonInputSchemaFile = jsonixRun.getJsonSchema();
@@ -68,7 +68,7 @@ public class UpdateJsonSchema {
                     "    ]\n" +
                     "}";
 
-            System.out.println("Updating " + jsonInputSchemaFile + " for " + jsonSchemaObject);
+            //System.out.println("Updating " + jsonInputSchemaFile + " for " + jsonSchemaObject);
             List<String> replacedContent = handleFile(jsonInputSchemaFile);
             Files.write(Paths.get(jsonOutputSchemaFile), replacedContent);
             System.out.println("Generated " + jsonOutputSchemaFile);
@@ -104,7 +104,7 @@ public class UpdateJsonSchema {
                 p = Pattern.compile(titlePattern);
                 m = p.matcher(line);
                 if (m.matches()) {
-                    System.out.println("found uppercase title " + m.group(1) + m.group(2) + m.group(3));
+                    //jSystem.out.println("found uppercase title " + m.group(1) + m.group(2) + m.group(3));
                     replaced.add(m.group(1) + m.group(2).toLowerCase() + m.group(3));
                     continue;
                 }
@@ -112,29 +112,10 @@ public class UpdateJsonSchema {
                 p = Pattern.compile(fieldPattern);
                 m = p.matcher(line);
                 if (m.matches()) {
-                    System.out.println("found uppercase field " + m.group(1) + m.group(2) + m.group(3));
+                    //System.out.println("found uppercase field " + m.group(1) + m.group(2) + m.group(3));
                     replaced.add(m.group(1) + m.group(2).toLowerCase() + m.group(3));
                     continue;
                 }
-
-                p = Pattern.compile(refPattern1);
-                m = p.matcher(line);
-                if (m.matches()) {
-                    System.out.println("found uppercase ref " + m.group(1) + m.group(2) + m.group(3));
-                    String subLine = m.group(1) + m.group(2).toLowerCase() + m.group(3);
-
-                    p = Pattern.compile(refPattern2);
-                    m = p.matcher(subLine);
-                    if (m.matches()) {
-                        System.out.println("found uppercase ref.ref " + m.group(1) + m.group(2) + m.group(3));
-                        subLine = m.group(1) + m.group(2).toLowerCase() + m.group(3);
-                    }
-
-                    replaced.add(subLine);
-                    continue;
-                }
-
-
 
                 //replace refs
                 p = Pattern.compile(jsonixSchemaPattern);
@@ -177,6 +158,23 @@ public class UpdateJsonSchema {
                             break;
                     }
                     replaced.add(newLine);
+                    continue;
+                }
+
+                p = Pattern.compile(refPattern1);
+                m = p.matcher(line);
+                if (m.matches()) {
+                    //System.out.println("found uppercase ref " + m.group(1) + m.group(2) + m.group(3));
+                    String subLine = m.group(1) + m.group(2).toLowerCase() + m.group(3);
+
+                    p = Pattern.compile(refPattern2);
+                    m = p.matcher(subLine);
+                    if (m.matches()) {
+                        //System.out.println("found uppercase ref.ref " + m.group(1) + m.group(2) + m.group(3));
+                        subLine = m.group(1) + m.group(2).toLowerCase() + m.group(3);
+                    }
+
+                    replaced.add(subLine);
                     continue;
                 }
 
