@@ -26,7 +26,9 @@ public class UpdateJsonSchema {
     static final String startPattern = "^\\{";
 
     static final String titlePattern = "(.*:\")([A-Z])(.*?\".*)";
-    static final String fieldPattern = "(\\s+\")([A-Z])(.*?:\\{\\s*)";
+    static final String titlePattern2 = "(.*:\".*\\.)([A-Z])(.*?\".*)"; //TODO "title":"transportApprovalType.Container.AdrCodes",
+    static final String fieldPattern = "(\\s+\")([A-Z])(.*?:\\{\\s*)"; //TODO "transportApprovalType.Container.AdrCodes":{
+    static final String fieldPattern2 = "(\\s+\".*\\.)([A-Z])(.*?:\\{\\s*)";
     static final String refPattern1 = "(.*#/definitions/)([A-Z])(.*)";
     static final String refPattern2 = "(.*#/definitions/.*\\.)([A-Z])(.*)";
 
@@ -105,7 +107,19 @@ public class UpdateJsonSchema {
                 m = p.matcher(line);
                 if (m.matches()) {
                     //jSystem.out.println("found uppercase title " + m.group(1) + m.group(2) + m.group(3));
-                    replaced.add(m.group(1) + m.group(2).toLowerCase() + m.group(3));
+                    String subLine = m.group(1) + m.group(2).toLowerCase() + m.group(3);
+
+                    boolean loop = true;
+                    while(loop) {
+                        p = Pattern.compile(titlePattern2);
+                        m = p.matcher(subLine);
+                        if (m.matches()) {
+                            subLine = m.group(1) + m.group(2).toLowerCase() + m.group(3);
+                        } else {
+                            loop = false;
+                        }
+                    }
+                    replaced.add(subLine);
                     continue;
                 }
 
@@ -113,7 +127,19 @@ public class UpdateJsonSchema {
                 m = p.matcher(line);
                 if (m.matches()) {
                     //System.out.println("found uppercase field " + m.group(1) + m.group(2) + m.group(3));
-                    replaced.add(m.group(1) + m.group(2).toLowerCase() + m.group(3));
+                    String subLine = m.group(1) + m.group(2).toLowerCase() + m.group(3);
+
+                    boolean loop = true;
+                    while(loop) {
+                        p = Pattern.compile(fieldPattern2);
+                        m = p.matcher(subLine);
+                        if (m.matches()) {
+                            subLine = m.group(1) + m.group(2).toLowerCase() + m.group(3);
+                        } else {
+                            loop = false;
+                        }
+                    }
+                    replaced.add(subLine);
                     continue;
                 }
 
@@ -167,13 +193,17 @@ public class UpdateJsonSchema {
                     //System.out.println("found uppercase ref " + m.group(1) + m.group(2) + m.group(3));
                     String subLine = m.group(1) + m.group(2).toLowerCase() + m.group(3);
 
-                    p = Pattern.compile(refPattern2);
-                    m = p.matcher(subLine);
-                    if (m.matches()) {
-                        //System.out.println("found uppercase ref.ref " + m.group(1) + m.group(2) + m.group(3));
-                        subLine = m.group(1) + m.group(2).toLowerCase() + m.group(3);
+                    boolean loop = true;
+                    while(loop) {
+                        p = Pattern.compile(refPattern2);
+                        m = p.matcher(subLine);
+                        if (m.matches()) {
+                            //System.out.println("found uppercase ref.ref " + m.group(1) + m.group(2) + m.group(3));
+                            subLine = m.group(1) + m.group(2).toLowerCase() + m.group(3);
+                        } else {
+                            loop = false;
+                        }
                     }
-
                     replaced.add(subLine);
                     continue;
                 }
