@@ -26,8 +26,8 @@ public class UpdateJsonSchema {
     static final String startPattern = "^\\{";
 
     static final String titlePattern = "(.*:\")([A-Z])(.*?\".*)";
-    static final String titlePattern2 = "(.*:\".*\\.)([A-Z])(.*?\".*)"; //TODO "title":"transportApprovalType.Container.AdrCodes",
-    static final String fieldPattern = "(\\s+\")([A-Z])(.*?:\\{\\s*)"; //TODO "transportApprovalType.Container.AdrCodes":{
+    static final String titlePattern2 = "(.*:\".*\\.)([A-Z])(.*?\".*)";
+    static final String fieldPattern = "(\\s+\")([A-Z])(.*?:\\{\\s*)";
     static final String fieldPattern2 = "(\\s+\".*\\.)([A-Z])(.*?:\\{\\s*)";
     static final String refPattern1 = "(.*#/definitions/)([A-Z])(.*)";
     static final String refPattern2 = "(.*#/definitions/.*\\.)([A-Z])(.*)";
@@ -53,8 +53,8 @@ public class UpdateJsonSchema {
 
         try {
             JsonixRunner jsonixRun;
-             jsonixRun = new JsonixRunner(inputXsdSchema, outputDirectory, jsonSchemaObject);
-            jsonixRun.execute();
+            jsonixRun = new JsonixRunner(inputXsdSchema, outputDirectory, jsonSchemaObject);
+            JsonixRunner.execute();
 
             String jsonInputSchemaFile = jsonixRun.getJsonSchema();
             String jsonOutputSchemaFile = Paths.get(jsonInputSchemaFile).getParent() + File.separator + jsonSchemaObject + ".schema.json";
